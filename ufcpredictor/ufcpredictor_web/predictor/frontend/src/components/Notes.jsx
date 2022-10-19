@@ -1,6 +1,6 @@
 import {useState, useEffect} from "react"
 import axios from "axios"
-import  List from "./List"
+import List from "./List"
 
 function Note() {
     const [notes , setNewNotes] = useState(null)
@@ -8,6 +8,9 @@ function Note() {
           title: "",
           content: ""
           })
+
+    const [isExpanded, setExpanded]= useState(false)
+    const [rows, setRows]= useState(1)
 
     useEffect(()=> {
         getNotes()
@@ -61,12 +64,17 @@ function Note() {
         )
     }
 
+    function NoteShow(){
+        setExpanded(true)
+        setRows(3)
+    }
+
     return (
         <div className=''>
             <form className="create-note">
-                <input onChange={handleChange} text={formNote.title} name="title" placeholder="Title" value={formNote.title} />
-                <textarea onChange={handleChange} name="content" placeholder="Take a note..." value={formNote.content} />
-                <button onClick={createNote}>Create Post</button>
+                {isExpanded && <input onChange={handleChange} text={formNote.title} name="title" placeholder="Title" value={formNote.title} />}
+                <textarea onClick={NoteShow} onChange={handleChange} name="content" placeholder="Take a note..." rows={rows} value={formNote.content} />
+                {isExpanded && <button onClick={createNote}></button>}
             </form>
 
             {notes && notes.map(note => <List
