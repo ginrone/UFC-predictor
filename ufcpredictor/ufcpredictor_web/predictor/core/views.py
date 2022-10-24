@@ -8,7 +8,7 @@ from .models import Notes
 def front(request):
     context = {}
 
-    return render(request, "index.html", context)
+    return render(request, "front.html", context)
 
 @api_view(['GET', 'POST'])
 def note(request):
