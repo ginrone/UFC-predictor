@@ -10,6 +10,11 @@ def front(request):
 
     return render(request, "front.html", context)
 
+def result(request):
+    context = {}
+
+    return render(request, "result.html", context)
+
 # @api_view(['GET', 'POST'])
 # def note(request):
 
