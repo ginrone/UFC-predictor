@@ -1,11 +1,15 @@
 from django.shortcuts import render
-from rest_framework.decorators import api_view
-# from rest_framework.response import Response
-# from rest_framework import status
-# from .serializers import NoteSerializer
-# from .models import Notes
+from bs4 import BeautifulSoup
+import requests
 
 def front(request):
+    url = "https://www.ufc.com/athletes/all"
+    r = requests.get(url)
+
+    soup = BeautifulSoup(r.text,"html.parser")
+
+    print(r.content)
+
     context = {}
 
     return render(request, "front.html", context)
