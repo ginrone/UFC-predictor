@@ -1,18 +1,40 @@
 from django.shortcuts import render
 from bs4 import BeautifulSoup
 import requests
+from .forms import fighterForm
 
 def front(request):
-    url = "https://www.ufc.com/athletes/all"
-    r = requests.get(url)
 
-    soup = BeautifulSoup(r.text,"html.parser")
+    # end = 249
+    
+    # url = "https://www.ufc.com/athletes/all?gender=All&amp%3Bpage=2&amp%3Bsearch=&search=&page=1"
+    # r = requests.get(url)
 
-    print(r.content)
+    # soup = BeautifulSoup(r.content,"html.parser")
 
-    context = {}
+    # # print(soup)
+
+    # names = soup.find_all('span', attrs={'class': 'c-listing-athlete__name'})
+    # for name in names:
+    #     print(name.text.strip())
+
+    if request.method == 'POST':
+
+        form = fighterForm(request.POST)
+
+        if form.is_valid():
+            return middle(request)
+
+    else:
+        form = fighterForm()
+    
+    context = {'form': form}
 
     return render(request, "front.html", context)
+
+def middle(request):
+
+    return result(request)
 
 def result(request):
     context = {}

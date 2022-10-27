@@ -2,15 +2,27 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <h1> Test </h1>
+        
     </head>
     <body>
-        <h1> Test </h1>
-        <button onclick="move()"> Predict </button>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.fighter1 }}
+            {{ form.fighter2 }}
+            <button> Predict </button>
+        </form>
     </body>
     <script>
         function move(){
-            return location.href='{% url "result" %}'
+            f1 = document.getElementById("fighter1").value
+            f2 = document.getElementById("fighter2").value
+
+            if(f1=="" || f2==""){
+                alert("empty")
+            }
+            else{
+                
+            }
         }
     </script>
 </html>
