@@ -23,7 +23,17 @@ def front(request):
         form = fighterForm(request.POST)
 
         if form.is_valid():
-            return middle(request)
+
+            name1 = str(form.data['fighter1']).replace(" ","-")
+            name2 = str(form.data['fighter2']).replace(" ","-")
+            
+            r1 = requests.get("https://www.ufc.com/athlete/"+name1)
+            r2 = requests.get("https://www.ufc.com/athlete/"+name2)
+            
+            if(str(r1.status_code) == '200' and str(r2.status_code) == '200'):
+                return middle(request,r1,r2)
+            else:
+                pass
 
     else:
         form = fighterForm()
@@ -32,7 +42,7 @@ def front(request):
 
     return render(request, "front.html", context)
 
-def middle(request):
+def middle(request,r1,r2):
 
     return result(request)
 
