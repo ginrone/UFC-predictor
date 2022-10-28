@@ -44,6 +44,23 @@ def front(request):
 
 def middle(request,r1,r2):
 
+    r1Beauty = BeautifulSoup(r1.content,"html.parser")
+    print(r1Beauty)
+    
+    acc = r1Beauty.find_all('text',attrs={'class':'e-chart-circle__percent'})
+
+    rate = r1Beauty.find_all('div',attrs={'class':'c-stat-compare__number'})
+
+    fighter1_strikeAcc = acc[0].text.strip().strip("%")
+    fighter1_takedownAcc = acc[1].text.strip().strip("%")
+    
+    fighter1_rateStrikeLanded = rate[0].text.strip()
+    fighter1_rateStrikeAbsorb = rate[1].text.strip()
+    fighter1_rateTakedownAvg = rate[2].text.strip()
+    fighter1_rateSubmissionAvg = rate[3].text.strip()
+
+    print(rate)
+
     return result(request)
 
 def result(request):
