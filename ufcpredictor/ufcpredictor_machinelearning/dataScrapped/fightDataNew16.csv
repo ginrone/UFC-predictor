@@ -1,0 +1,595 @@
+Georges St-Pierre,Johny Hendricks,Welterweight,S-DEC,2013.0,LasVegas,71.0,185.0,76.0,Orthodox,1981.0,3.78,53.0,1.4,72.0,4.16,74.0,83.0,1.1,69.0,185.0,69.0,Southpaw,1983.0,3.49,45.0,3.99,53.0,3.83,46.0,63.0,0.3
+
+Rashad Evans,Chael Sonnen,Light Heavyweight,KO/TKO,2013.0,LasVegas,72.0,205.0,75.0,Orthodox,1979.0,2.14,37.0,2.42,63.0,2.98,44.0,73.0,0.0,73.0,205.0,73.0,Southpaw,1977.0,3.08,43.0,1.1,62.0,3.81,59.0,66.0,0.4
+
+Robbie Lawler,Rory MacDonald,Welterweight,S-DEC,2013.0,LasVegas,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,72.0,170.0,76.0,Orthodox,1989.0,3.75,42.0,2.8,62.0,1.77,47.0,88.0,0.4
+
+Tyron Woodley,Josh Koscheck,Welterweight,KO/TKO,2013.0,LasVegas,69.0,170.0,74.0,Orthodox,1982.0,2.36,48.0,2.76,54.0,1.06,40.0,87.0,0.4,70.0,170.0,73.0,Orthodox,1977.0,1.79,36.0,2.27,63.0,2.46,48.0,64.0,0.4
+
+Ali Bagautinov,Tim Elliott,Flyweight,U-DEC,2013.0,LasVegas,64.0,125.0,65.0,Orthodox,1985.0,2.85,42.0,3.09,52.0,2.51,36.0,65.0,0.3,67.0,125.0,66.0,Southpaw,1986.0,3.58,44.0,2.86,56.0,3.73,44.0,61.0,1.0
+
+Donald Cerrone,Evan Dunham,Lightweight,SUB,2013.0,LasVegas,73.0,155.0,73.0,Orthodox,1983.0,4.41,46.0,4.48,53.0,1.16,33.0,73.0,1.2,70.0,155.0,70.0,Southpaw,1981.0,5.33,39.0,3.54,61.0,1.82,33.0,79.0,1.0
+
+Thales Leites,Ed Herman,Middleweight,U-DEC,2013.0,LasVegas,73.0,185.0,78.0,Orthodox,1981.0,2.13,40.0,2.99,52.0,2.1,27.0,30.0,1.1,73.0,205.0,77.0,Orthodox,1980.0,3.28,48.0,3.52,42.0,2.08,48.0,59.0,1.1
+
+Rick Story,Brian Ebersole,Welterweight,U-DEC,2013.0,LasVegas,69.0,170.0,71.0,Southpaw,1984.0,3.8,41.0,2.17,62.0,2.53,48.0,63.0,0.9,72.0,170.0,73.0,Southpaw,1980.0,2.32,49.0,2.14,56.0,1.7,23.0,61.0,0.1
+
+Erik Perez,Edwin Figueroa,Bantamweight,U-DEC,2013.0,LasVegas,68.0,135.0,68.0,Orthodox,1989.0,3.16,40.0,2.09,66.0,3.16,55.0,69.0,0.2,67.0,135.0,69.0,Orthodox,1984.0,2.57,39.0,3.06,51.0,0.2,100.0,37.0,0.6
+
+Jason High,Anthony Lapsley,Welterweight,U-DEC,2013.0,LasVegas,68.0,155.0,73.0,Southpaw,1981.0,1.28,42.0,1.56,48.0,2.36,63.0,37.0,2.8,69.0,170.0,--,Southpaw,1980.0,0.53,34.0,0.58,66.0,0.0,0.0,20.0,0.0
+
+Sergio Pettis,Will Campuzano,Bantamweight,U-DEC,2013.0,LasVegas,66.0,125.0,69.0,Orthodox,1993.0,3.88,37.0,2.91,65.0,0.85,40.0,67.0,0.4,69.0,125.0,70.0,Orthodox,1986.0,2.43,31.0,3.82,57.0,0.88,45.0,48.0,0.2
+
+Gian Villante,Cody Donovan,Light Heavyweight,KO/TKO,2013.0,LasVegas,75.0,230.0,76.0,Orthodox,1985.0,4.38,44.0,5.47,55.0,0.45,23.0,83.0,0.0,75.0,205.0,74.0,Orthodox,1981.0,5.61,59.0,5.44,45.0,1.67,28.0,0.0,1.7
+
+Vitor Belfort,Dan Henderson,Light Heavyweight,KO/TKO,2013.0,Goiania,72.0,185.0,74.0,Southpaw,1977.0,1.59,46.0,2.83,50.0,1.02,60.0,53.0,0.6,71.0,185.0,74.0,Orthodox,1970.0,2.44,47.0,2.7,51.0,1.52,52.0,57.0,0.3
+
+Cezar Ferreira,Daniel Sarafian,Middleweight,S-DEC,2013.0,Goiania,73.0,185.0,78.0,Southpaw,1985.0,1.9,42.0,2.44,53.0,2.69,53.0,84.0,0.5,69.0,185.0,73.0,Orthodox,1982.0,2.23,46.0,3.1,58.0,0.36,7.0,53.0,0.7
+
+Rafael Cavalcante,Igor Pokrajac,Light Heavyweight,KO/TKO,2013.0,Goiania,73.0,205.0,74.0,Orthodox,1980.0,2.71,53.0,3.62,49.0,0.6,40.0,63.0,0.1,72.0,205.0,74.0,Orthodox,1979.0,2.25,45.0,4.26,40.0,0.87,29.0,51.0,0.2
+
+Brandon Thatch,Paulo Thiago,Welterweight,KO/TKO,2013.0,Goiania,74.0,170.0,74.0,Switch,1985.0,2.7,42.0,3.63,52.0,1.36,66.0,50.0,0.7,71.0,170.0,74.0,Orthodox,1981.0,1.71,39.0,1.99,63.0,1.42,31.0,63.0,1.2
+
+Ryan LaFlare,Santiago Ponzinibbio,Welterweight,U-DEC,2013.0,Goiania,73.0,170.0,74.0,Southpaw,1983.0,2.89,40.0,1.86,63.0,2.13,44.0,58.0,0.2,72.0,170.0,73.0,Orthodox,1986.0,5.0,41.0,4.77,60.0,0.56,31.0,60.0,0.0
+
+Jeremy Stephens,Rony Jason,Featherweight,KO/TKO,2013.0,Goiania,69.0,145.0,71.0,Orthodox,1986.0,3.17,40.0,3.05,58.0,1.16,38.0,65.0,0.4,67.0,145.0,73.0,Orthodox,1984.0,2.04,44.0,3.14,53.0,0.59,30.0,36.0,0.8
+
+Sam Sicilia,Godofredo Pepey,Featherweight,KO/TKO,2013.0,Goiania,68.0,145.0,67.0,Orthodox,1986.0,2.46,33.0,3.55,59.0,1.45,43.0,70.0,0.9,67.0,145.0,73.0,Orthodox,1987.0,2.32,38.0,3.23,47.0,0.37,7.0,35.0,1.5
+
+Omari Akhmedov,Thiago Perpetuo,Middleweight,KO/TKO,2013.0,Goiania,72.0,185.0,73.0,Orthodox,1987.0,2.97,34.0,2.84,55.0,2.58,45.0,65.0,0.2,70.0,170.0,--,Orthodox,1987.0,5.39,69.0,3.51,51.0,2.82,50.0,66.0,0.0
+
+Thiago Tavares,Justin Salas,Lightweight,SUB,2013.0,Goiania,67.0,145.0,70.0,Orthodox,1984.0,2.0,40.0,2.31,62.0,3.83,42.0,62.0,1.5,68.0,155.0,70.0,Southpaw,1982.0,3.42,43.0,2.96,68.0,2.43,20.0,0.0,0.0
+
+Adriano Martins,Daron Cruickshank,Lightweight,SUB,2013.0,Goiania,70.0,155.0,72.0,Southpaw,1982.0,1.8,38.0,2.14,65.0,0.83,80.0,81.0,0.4,68.0,155.0,72.0,Switch,1985.0,2.88,38.0,2.98,57.0,2.04,41.0,60.0,0.2
+
+Dustin Ortiz,Jose Maria,Flyweight,KO/TKO,2013.0,Goiania,65.0,125.0,65.0,Orthodox,1988.0,2.94,44.0,2.17,56.0,3.01,36.0,52.0,0.1,65.0,125.0,--,Orthodox,1982.0,3.2,53.0,3.98,52.0,2.32,27.0,33.0,2.3
+
+Tim Kennedy,Rafael Natal,Middleweight,KO/TKO,2013.0,FortCampbell,71.0,185.0,74.0,Orthodox,1979.0,2.78,47.0,1.84,62.0,2.58,35.0,70.0,0.7,72.0,185.0,77.0,Orthodox,1982.0,3.1,47.0,2.48,57.0,2.55,34.0,77.0,0.5
+
+Alexis Davis,Liz Carmouche,Women's Bantamweight,U-DEC,2013.0,FortCampbell,66.0,135.0,68.0,Orthodox,1984.0,4.63,49.0,4.45,54.0,0.95,44.0,34.0,0.7,66.0,125.0,66.0,Orthodox,1984.0,2.78,54.0,2.51,61.0,2.57,51.0,65.0,0.3
+
+Yoel Romero,Ronny Markes,Middleweight,KO/TKO,2013.0,FortCampbell,72.0,185.0,73.0,Southpaw,1977.0,3.44,49.0,3.05,60.0,1.57,30.0,78.0,0.0,73.0,185.0,75.0,Orthodox,1988.0,2.17,53.0,2.43,45.0,3.13,40.0,100.0,0.5
+
+Rustam Khabilov,Jorge Masvidal,Lightweight,U-DEC,2013.0,FortCampbell,68.0,155.0,73.0,Orthodox,1986.0,1.98,34.0,2.16,65.0,3.95,41.0,61.0,0.1,71.0,170.0,74.0,Orthodox,1984.0,4.11,48.0,3.06,64.0,1.44,59.0,74.0,0.3
+
+Michael Chiesa,Colton Smith,Lightweight,SUB,2013.0,FortCampbell,73.0,170.0,75.0,Southpaw,1987.0,1.88,41.0,1.67,54.0,3.39,54.0,60.0,1.0,72.0,155.0,71.0,Orthodox,1987.0,1.64,41.0,2.3,51.0,4.09,36.0,25.0,1.4
+
+Bobby Green,James Krause,Lightweight,KO/TKO,2013.0,FortCampbell,70.0,155.0,71.0,Orthodox,1986.0,5.88,52.0,3.65,62.0,1.34,38.0,72.0,0.3,74.0,170.0,73.0,Orthodox,1986.0,4.79,49.0,4.11,61.0,0.96,18.0,59.0,0.9
+
+Francisco Rivera,George Roop,Bantamweight,KO/TKO,2013.0,FortCampbell,68.0,135.0,70.0,Orthodox,1981.0,4.07,41.0,3.16,68.0,1.01,63.0,68.0,0.6,73.0,135.0,72.0,Orthodox,1981.0,3.43,34.0,2.47,60.0,1.05,57.0,59.0,0.1
+
+Dennis Bermudez,Steven Siler,Featherweight,U-DEC,2013.0,FortCampbell,66.0,155.0,66.0,Orthodox,1986.0,4.42,46.0,3.07,59.0,3.89,40.0,82.0,1.1,71.0,145.0,70.0,Orthodox,1987.0,3.21,41.0,2.96,54.0,0.47,21.0,55.0,1.6
+
+Amanda Nunes,Germaine de Randamie,Women's Bantamweight,KO/TKO,2013.0,FortCampbell,68.0,135.0,69.0,Orthodox,1988.0,4.4,51.0,2.75,55.0,2.61,56.0,82.0,0.8,69.0,135.0,71.0,Orthodox,1984.0,2.72,46.0,2.14,65.0,0.0,0.0,69.0,0.4
+
+Lorenz Larkin,Chris Camozzi,Middleweight,U-DEC,2013.0,FortCampbell,71.0,170.0,72.0,Orthodox,1986.0,3.53,46.0,2.74,63.0,0.27,42.0,79.0,0.1,74.0,185.0,75.0,Orthodox,1986.0,3.57,44.0,2.96,56.0,0.27,19.0,57.0,0.5
+
+Yves Edwards,Yancy Medeiros,Lightweight,Overturned,2013.0,FortCampbell,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,70.0,155.0,75.0,Orthodox,1987.0,4.36,37.0,5.67,47.0,0.33,50.0,73.0,0.7
+
+Seth Baczynski,Neil Magny,Welterweight,U-DEC,2013.0,FortCampbell,75.0,170.0,75.0,Orthodox,1981.0,3.08,31.0,3.14,51.0,0.89,16.0,48.0,0.8,75.0,170.0,80.0,Orthodox,1987.0,3.62,46.0,2.27,54.0,2.43,42.0,57.0,0.3
+
+Derek Brunson,Brian Houston,Middleweight,SUB,2013.0,FortCampbell,73.0,185.0,77.0,Southpaw,1984.0,3.5,47.0,2.84,52.0,3.23,33.0,89.0,0.6,74.0,185.0,--,Orthodox,1981.0,1.9,35.0,3.67,53.0,0.95,100.0,87.0,0.0
+
+Lyoto Machida,Mark Munoz,Middleweight,KO/TKO,2013.0,Manchester,73.0,185.0,74.0,Southpaw,1978.0,2.59,53.0,1.57,61.0,1.21,65.0,75.0,0.4,72.0,185.0,71.0,Orthodox,1978.0,3.12,51.0,2.26,57.0,3.17,29.0,57.0,0.6
+
+Ross Pearson,Melvin Guillard,Lightweight,CNC,2013.0,Manchester,68.0,155.0,69.0,Orthodox,1984.0,3.68,40.0,4.09,62.0,0.74,35.0,75.0,0.0,69.0,155.0,71.0,Orthodox,1983.0,2.96,40.0,1.85,66.0,1.3,63.0,61.0,0.2
+
+Jimi Manuwa,Ryan Jimmo,Light Heavyweight,KO/TKO,2013.0,Manchester,73.0,205.0,79.0,Orthodox,1980.0,3.43,54.0,3.97,49.0,0.53,18.0,70.0,0.4,73.0,205.0,73.0,Orthodox,1981.0,3.12,66.0,2.77,46.0,0.45,28.0,87.0,0.0
+
+Norman Parke,Jon Tuck,Lightweight,U-DEC,2013.0,Manchester,71.0,155.0,70.0,Southpaw,1986.0,3.06,35.0,2.88,64.0,1.98,26.0,77.0,0.0,71.0,155.0,73.0,Orthodox,1984.0,3.0,40.0,3.74,60.0,0.42,33.0,50.0,1.0
+
+Nicholas Musoke,Alessio Sakara,Middleweight,SUB,2013.0,Manchester,72.0,170.0,75.0,Orthodox,1986.0,3.56,35.0,3.8,57.0,1.16,19.0,82.0,0.2,72.0,185.0,72.0,Orthodox,1981.0,3.96,47.0,2.8,59.0,2.18,78.0,62.0,0.0
+
+John Lineker,Phil Harris,Flyweight,KO/TKO,2013.0,Manchester,63.0,135.0,67.0,Orthodox,1990.0,5.36,40.0,4.27,56.0,0.56,58.0,67.0,0.6,64.0,125.0,65.0,Orthodox,1983.0,2.34,26.0,3.16,68.0,1.76,21.0,60.0,0.0
+
+Al Iaquinta,Piotr Hallmann,Lightweight,U-DEC,2013.0,Manchester,70.0,155.0,70.0,Orthodox,1987.0,4.06,40.0,4.53,61.0,0.63,18.0,74.0,0.2,69.0,155.0,71.0,Orthodox,1987.0,3.98,45.0,3.17,58.0,2.55,44.0,70.0,0.4
+
+Luke Barnatt,Andrew Craig,Middleweight,SUB,2013.0,Manchester,78.0,185.0,77.0,Orthodox,1988.0,4.43,36.0,3.87,59.0,0.63,42.0,63.0,0.4,73.0,170.0,76.0,Orthodox,1986.0,2.39,40.0,3.01,50.0,0.53,37.0,72.0,0.0
+
+Jessica Andrade,Rosi Sexton,Women's Bantamweight,U-DEC,2013.0,Manchester,61.0,125.0,62.0,Orthodox,1991.0,6.16,50.0,5.16,53.0,2.85,55.0,66.0,0.5,63.0,135.0,--,Orthodox,1977.0,3.31,39.0,7.42,41.0,0.75,10.0,80.0,0.0
+
+Cole Miller,Andy Ogle,Featherweight,U-DEC,2013.0,Manchester,73.0,145.0,73.0,Orthodox,1984.0,3.0,33.0,3.88,59.0,0.6,36.0,38.0,1.8,68.0,145.0,69.0,Orthodox,1989.0,2.24,44.0,2.23,50.0,1.44,26.0,58.0,0.0
+
+Jimy Hettes,Robert Whiteford,Featherweight,SUB,2013.0,Manchester,69.0,145.0,71.0,Southpaw,1987.0,3.47,57.0,3.5,57.0,5.2,44.0,61.0,1.4,69.0,145.0,69.0,Southpaw,1983.0,2.33,46.0,1.99,62.0,1.9,30.0,45.0,0.0
+
+Brad Scott,Michael Kuiper,Middleweight,SUB,2013.0,Manchester,73.0,170.0,76.0,Orthodox,1989.0,3.52,41.0,4.31,57.0,0.32,15.0,63.0,0.7,72.0,185.0,73.0,Orthodox,1989.0,3.28,54.0,3.62,54.0,2.3,55.0,79.0,0.0
+
+Cain Velasquez,Junior Dos Santos,Heavyweight,KO/TKO,2013.0,Houston,73.0,240.0,77.0,Orthodox,1982.0,6.37,57.0,2.33,57.0,5.13,45.0,85.0,0.4,76.0,238.0,77.0,Orthodox,1984.0,4.49,47.0,3.33,56.0,0.3,50.0,81.0,0.1
+
+Daniel Cormier,Roy Nelson,Heavyweight,U-DEC,2013.0,Houston,71.0,235.0,72.0,Orthodox,1979.0,4.25,52.0,2.92,54.0,1.83,44.0,80.0,0.4,72.0,263.0,73.0,Orthodox,1976.0,2.18,36.0,4.79,46.0,1.14,27.0,65.0,0.1
+
+Gilbert Melendez,Diego Sanchez,Lightweight,U-DEC,2013.0,Houston,69.0,145.0,73.0,Orthodox,1982.0,3.44,33.0,2.53,63.0,1.64,41.0,71.0,0.2,70.0,170.0,72.0,Southpaw,1981.0,2.69,37.0,3.02,56.0,1.51,24.0,46.0,0.8
+
+Gabriel Gonzaga,Shawn Jordan,Heavyweight,KO/TKO,2013.0,Houston,74.0,242.0,76.0,Orthodox,1979.0,2.12,45.0,2.94,57.0,2.8,39.0,66.0,1.1,72.0,260.0,75.0,Southpaw,1984.0,2.87,50.0,3.3,47.0,1.97,38.0,76.0,0.1
+
+John Dodson,Darrell Montague,Flyweight,KO/TKO,2013.0,Houston,63.0,135.0,66.0,Orthodox,1984.0,3.2,40.0,3.58,61.0,0.71,28.0,82.0,0.0,66.0,125.0,67.0,Southpaw,1987.0,1.92,25.0,5.38,52.0,0.72,25.0,33.0,1.4
+
+Tim Boetsch,CB Dollaway,Middleweight,S-DEC,2013.0,Houston,72.0,185.0,74.0,Orthodox,1981.0,2.93,50.0,2.9,57.0,1.45,34.0,59.0,0.8,74.0,185.0,76.0,Orthodox,1983.0,2.65,47.0,2.58,54.0,3.55,54.0,62.0,1.2
+
+Hector Lombard,Nate Marquardt,Welterweight,KO/TKO,2013.0,Houston,69.0,185.0,71.0,Southpaw,1978.0,3.02,46.0,3.35,53.0,1.69,48.0,77.0,0.5,72.0,185.0,74.0,Orthodox,1979.0,2.71,49.0,2.32,55.0,1.87,51.0,70.0,0.8
+
+Sarah Kaufman,Jessica Eye,Women's Bantamweight,Overturned,2013.0,Houston,65.0,135.0,66.0,Orthodox,1985.0,6.65,46.0,4.0,62.0,0.38,57.0,81.0,0.0,66.0,125.0,66.0,Orthodox,1986.0,3.86,37.0,4.19,55.0,0.58,40.0,57.0,0.5
+
+KJ Noons,George Sotiropoulos,Lightweight,U-DEC,2013.0,Houston,70.0,155.0,70.0,Orthodox,1982.0,3.68,35.0,3.78,65.0,0.08,20.0,68.0,0.0,70.0,155.0,71.0,Orthodox,1977.0,2.61,27.0,2.52,67.0,2.32,31.0,53.0,1.6
+
+Adlan Amagov,TJ Waldburger,Welterweight,KO/TKO,2013.0,Houston,74.0,170.0,76.0,Orthodox,1986.0,3.29,47.0,0.82,78.0,5.84,56.0,100.0,0.0,71.0,170.0,75.0,Orthodox,1988.0,2.02,51.0,2.39,40.0,3.03,46.0,40.0,4.8
+
+Tony Ferguson,Mike Rio,Lightweight,SUB,2013.0,Houston,71.0,155.0,76.0,Orthodox,1984.0,5.07,45.0,3.95,58.0,0.44,41.0,66.0,1.0,70.0,155.0,70.0,Orthodox,1981.0,1.68,39.0,2.99,53.0,2.58,27.0,0.0,1.0
+
+Andre Fili,Jeremy Larsen,Featherweight,KO/TKO,2013.0,Houston,71.0,145.0,74.0,Orthodox,1990.0,3.83,37.0,4.03,52.0,2.38,49.0,69.0,0.3,70.0,145.0,70.0,Orthodox,1984.0,4.87,48.0,5.75,57.0,2.49,33.0,0.0,0.0
+
+Kyoji Horiguchi,Dustin Pague,Bantamweight,KO/TKO,2013.0,Houston,65.0,125.0,66.0,Orthodox,1990.0,3.6,45.0,2.45,62.0,2.0,44.0,55.0,0.0,69.0,135.0,74.0,Orthodox,1987.0,1.65,53.0,2.96,41.0,1.03,44.0,55.0,2.6
+
+Jake Shields,Demian Maia,Welterweight,S-DEC,2013.0,Barueri,72.0,170.0,72.0,Orthodox,1979.0,2.45,36.0,1.8,56.0,2.83,29.0,35.0,1.2,73.0,170.0,72.0,Southpaw,1977.0,1.8,43.0,2.07,63.0,2.49,24.0,61.0,1.0
+
+Dong Hyun Kim,Erick Silva,Welterweight,KO/TKO,2013.0,Barueri,74.0,170.0,76.0,Southpaw,1981.0,2.12,49.0,1.89,58.0,2.93,43.0,71.0,0.6,72.0,170.0,74.0,Orthodox,1984.0,2.5,48.0,4.18,49.0,0.85,35.0,56.0,1.4
+
+Thiago Silva,Matt Hamill,Light Heavyweight,U-DEC,2013.0,Barueri,74.0,205.0,74.0,Orthodox,1982.0,3.92,50.0,2.55,67.0,1.03,47.0,70.0,0.7,73.0,205.0,76.0,Orthodox,1976.0,3.69,42.0,3.8,61.0,3.0,34.0,91.0,0.0
+
+Fabio Maldonado,Joey Beltran,Light Heavyweight,S-DEC,2013.0,Barueri,73.0,205.0,75.0,Orthodox,1980.0,5.29,58.0,4.31,53.0,0.44,57.0,61.0,0.6,73.0,185.0,75.0,Orthodox,1981.0,4.92,36.0,5.27,54.0,0.48,18.0,75.0,0.0
+
+Rousimar Palhares,Mike Pierce,Welterweight,SUB,2013.0,Barueri,68.0,170.0,71.0,Orthodox,1980.0,1.75,51.0,2.04,59.0,3.93,45.0,0.0,4.1,68.0,170.0,71.0,Orthodox,1980.0,2.62,42.0,2.36,62.0,3.08,42.0,71.0,0.2
+
+Raphael Assuncao,TJ Dillashaw,Bantamweight,S-DEC,2013.0,Barueri,65.0,135.0,66.0,Orthodox,1982.0,3.24,41.0,2.41,67.0,1.47,38.0,78.0,0.3,66.0,135.0,67.0,Orthodox,1986.0,5.09,41.0,3.47,62.0,1.56,30.0,77.0,0.8
+
+Igor Araujo,Ildemar Alcantara,Welterweight,U-DEC,2013.0,Barueri,73.0,170.0,77.0,Orthodox,1980.0,1.52,42.0,2.86,49.0,0.86,15.0,22.0,0.6,74.0,185.0,78.0,Orthodox,1982.0,1.93,38.0,2.63,50.0,2.0,68.0,81.0,0.9
+
+Yan Cabral,David Mitchell,Welterweight,U-DEC,2013.0,Barueri,71.0,155.0,73.0,Orthodox,1983.0,2.02,47.0,1.98,62.0,2.89,35.0,37.0,1.2,72.0,170.0,75.0,Orthodox,1979.0,1.74,32.0,2.06,55.0,0.66,50.0,29.0,2.0
+
+Chris Cariaso,Iliarde Santos,Flyweight,KO/TKO,2013.0,Barueri,63.0,125.0,64.0,Southpaw,1981.0,3.35,43.0,2.23,61.0,1.11,39.0,57.0,0.8,65.0,125.0,67.0,Orthodox,1980.0,3.0,30.0,6.1,57.0,1.66,23.0,83.0,0.0
+
+Alan Patrick,Garett Whiteley,Lightweight,KO/TKO,2013.0,Barueri,71.0,155.0,74.0,Southpaw,1983.0,1.82,40.0,2.95,43.0,3.01,33.0,43.0,0.3,72.0,155.0,72.0,Orthodox,1980.0,3.72,48.0,4.04,46.0,0.0,0.0,27.0,0.9
+
+Jon Jones,Alexander Gustafsson,Light Heavyweight,U-DEC,2013.0,Toronto,76.0,205.0,84.0,Orthodox,1987.0,4.3,57.0,2.22,64.0,1.85,44.0,95.0,0.4,77.0,205.0,79.0,Orthodox,1987.0,4.03,40.0,3.53,51.0,1.53,39.0,83.0,0.4
+
+Renan Barao,Eddie Wineland,Bantamweight,KO/TKO,2013.0,Toronto,66.0,145.0,70.0,Orthodox,1987.0,3.78,36.0,3.9,57.0,1.49,41.0,91.0,0.5,67.0,135.0,69.0,Orthodox,1984.0,3.4,29.0,3.76,68.0,0.34,33.0,86.0,0.1
+
+Brendan Schaub,Matt Mitrione,Heavyweight,SUB,2013.0,Toronto,76.0,245.0,78.0,Orthodox,1983.0,2.92,37.0,2.22,57.0,2.32,46.0,72.0,0.4,75.0,265.0,82.0,Switch,1978.0,3.55,50.0,2.79,64.0,0.0,0.0,55.0,0.7
+
+Francis Carmont,Constantinos Philippou,Middleweight,U-DEC,2013.0,Toronto,75.0,205.0,78.0,Orthodox,1981.0,2.22,42.0,1.64,59.0,1.79,36.0,73.0,0.6,71.0,185.0,73.0,Orthodox,1979.0,2.19,35.0,2.73,54.0,0.4,42.0,65.0,0.3
+
+Khabib Nurmagomedov,Pat Healy,Lightweight,U-DEC,2013.0,Toronto,70.0,155.0,70.0,Orthodox,1988.0,4.1,48.0,1.75,65.0,5.32,48.0,84.0,0.8,72.0,155.0,72.0,Orthodox,1983.0,2.57,36.0,2.57,50.0,3.08,37.0,55.0,1.1
+
+Myles Jury,Mike Ricci,Lightweight,S-DEC,2013.0,Toronto,70.0,145.0,73.0,Orthodox,1988.0,2.94,42.0,2.16,66.0,2.16,55.0,50.0,0.3,72.0,155.0,76.0,Southpaw,1986.0,1.8,32.0,1.64,65.0,0.67,100.0,54.0,0.0
+
+Wilson Reis,Ivan Menjivar,Bantamweight,U-DEC,2013.0,Toronto,64.0,125.0,65.0,Southpaw,1985.0,1.83,29.0,3.04,55.0,5.15,42.0,47.0,0.6,66.0,145.0,64.0,Orthodox,1982.0,2.78,37.0,2.76,65.0,0.56,28.0,38.0,1.0
+
+Stephen Thompson,Chris Clements,Welterweight,KO/TKO,2013.0,Toronto,72.0,170.0,75.0,Orthodox,1983.0,3.9,43.0,2.81,56.0,0.29,41.0,63.0,0.0,70.0,170.0,70.0,Orthodox,1976.0,3.2,49.0,2.37,44.0,0.0,0.0,32.0,0.3
+
+Mitch Gagnon,Dustin Kimura,Bantamweight,SUB,2013.0,Toronto,65.0,135.0,65.0,Southpaw,1984.0,2.76,46.0,2.21,61.0,1.16,25.0,65.0,1.9,67.0,135.0,71.0,Orthodox,1989.0,1.33,21.0,3.82,51.0,0.93,37.0,50.0,2.2
+
+John Makdessi,Renee Forte,Lightweight,KO/TKO,2013.0,Toronto,68.0,155.0,68.0,Orthodox,1985.0,5.52,50.0,4.04,69.0,0.0,0.0,85.0,0.0,67.0,155.0,71.0,Orthodox,1987.0,2.08,32.0,2.12,63.0,2.32,58.0,66.0,0.0
+
+Michel Prazeres,Jesse Ronson,Lightweight,S-DEC,2013.0,Toronto,66.0,170.0,67.0,Orthodox,1981.0,2.38,47.0,2.51,57.0,3.94,36.0,47.0,0.6,70.0,155.0,70.0,Southpaw,1985.0,3.54,47.0,3.39,57.0,0.46,28.0,57.0,0.5
+
+Alex Caceres,Roland Delorme,Bantamweight,S-DEC,2013.0,Toronto,70.0,145.0,73.0,Southpaw,1988.0,4.15,51.0,2.92,64.0,0.58,70.0,64.0,0.8,69.0,135.0,71.0,Orthodox,1983.0,2.28,44.0,4.32,40.0,2.51,34.0,42.0,1.6
+
+Daniel Omielanczuk,Nandor Guelmino,Heavyweight,KO/TKO,2013.0,Toronto,72.0,247.0,74.0,Southpaw,1982.0,3.09,57.0,3.29,47.0,0.56,26.0,68.0,0.1,75.0,230.0,--,,1975.0,3.62,56.0,3.16,33.0,0.0,0.0,42.0,0.0
+
+Glover Teixeira,Ryan Bader,Light Heavyweight,KO/TKO,2013.0,BeloHorizonte,74.0,205.0,76.0,Orthodox,1979.0,3.8,50.0,3.93,52.0,2.2,37.0,60.0,1.0,74.0,205.0,74.0,Orthodox,1983.0,2.82,43.0,1.39,71.0,3.37,44.0,80.0,0.4
+
+Jacare Souza,Yushin Okami,Middleweight,KO/TKO,2013.0,BeloHorizonte,73.0,185.0,72.0,Orthodox,1979.0,2.53,47.0,2.83,62.0,2.57,39.0,57.0,1.3,74.0,170.0,75.0,Southpaw,1981.0,2.06,38.0,2.25,60.0,1.98,39.0,84.0,0.5
+
+Joseph Benavidez,Jussier Formiga,Flyweight,KO/TKO,2013.0,BeloHorizonte,64.0,125.0,65.0,Southpaw,1984.0,3.52,34.0,2.67,61.0,1.41,30.0,62.0,0.6,65.0,125.0,67.0,Orthodox,1985.0,1.42,39.0,2.34,64.0,1.82,35.0,87.0,0.6
+
+Piotr Hallmann,Francisco Trinaldo,Lightweight,SUB,2013.0,BeloHorizonte,69.0,155.0,71.0,Orthodox,1987.0,3.98,45.0,3.17,58.0,2.55,44.0,70.0,0.4,69.0,170.0,70.0,Southpaw,1978.0,3.13,45.0,2.67,60.0,0.98,42.0,60.0,0.5
+
+Rafael Natal,Tor Troeng,Middleweight,U-DEC,2013.0,BeloHorizonte,72.0,185.0,77.0,Orthodox,1982.0,3.1,47.0,2.48,57.0,2.55,34.0,77.0,0.5,74.0,185.0,--,Orthodox,1983.0,1.16,46.0,3.26,32.0,0.62,7.0,66.0,0.3
+
+Ali Bagautinov,Marcos Vinicius,Flyweight,KO/TKO,2013.0,BeloHorizonte,64.0,125.0,65.0,Orthodox,1985.0,2.85,42.0,3.09,52.0,2.51,36.0,65.0,0.3,69.0,125.0,--,Orthodox,1979.0,1.93,49.0,2.91,47.0,0.0,0.0,25.0,0.5
+
+Edimilson Souza,Felipe Arantes,Featherweight,S-DEC,2013.0,BeloHorizonte,72.0,145.0,74.0,Orthodox,1984.0,4.65,44.0,2.91,58.0,0.0,0.0,50.0,0.0,68.0,135.0,73.0,Orthodox,1988.0,2.37,45.0,2.66,64.0,0.93,47.0,41.0,0.7
+
+Lucas Martins,Ramiro Hernandez,Bantamweight,SUB,2013.0,BeloHorizonte,72.0,145.0,72.0,Southpaw,1988.0,2.87,35.0,4.14,60.0,0.0,0.0,76.0,0.5,69.0,135.0,--,Orthodox,1986.0,2.72,28.0,5.51,64.0,0.0,0.0,0.0,0.0
+
+Elias Silverio,Joao Zeferino,Welterweight,U-DEC,2013.0,BeloHorizonte,71.0,155.0,73.0,Orthodox,1986.0,3.67,49.0,2.97,51.0,1.62,38.0,85.0,0.2,71.0,170.0,--,Orthodox,1986.0,0.83,36.0,2.6,48.0,0.5,5.0,50.0,1.0
+
+Ivan Jorge,Keith Wisniewski,Welterweight,U-DEC,2013.0,BeloHorizonte,69.0,155.0,73.0,Orthodox,1980.0,3.41,49.0,2.91,59.0,1.56,16.0,75.0,0.6,72.0,170.0,--,Orthodox,1981.0,2.32,52.0,4.86,42.0,1.57,40.0,78.0,0.3
+
+Sean Spencer,Yuri Villefort,Welterweight,S-DEC,2013.0,BeloHorizonte,70.0,170.0,74.0,Orthodox,1987.0,4.24,32.0,4.02,60.0,0.14,33.0,68.0,0.0,72.0,170.0,73.0,Orthodox,1991.0,3.18,43.0,5.42,55.0,2.0,35.0,40.0,0.3
+
+Anthony Pettis,Benson Henderson,Lightweight,SUB,2013.0,Milwaukee,70.0,155.0,72.0,Orthodox,1987.0,3.05,47.0,3.44,54.0,0.61,50.0,60.0,1.1,69.0,170.0,70.0,Southpaw,1983.0,2.93,45.0,1.79,63.0,2.4,45.0,63.0,0.8
+
+Josh Barnett,Frank Mir,Heavyweight,KO/TKO,2013.0,Milwaukee,75.0,250.0,78.0,Orthodox,1977.0,3.2,50.0,2.11,57.0,1.26,55.0,55.0,1.4,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0
+
+Chad Mendes,Clay Guida,Featherweight,KO/TKO,2013.0,Milwaukee,66.0,145.0,66.0,Orthodox,1985.0,2.78,49.0,2.35,67.0,4.13,55.0,100.0,0.3,67.0,155.0,70.0,Orthodox,1981.0,2.52,34.0,2.74,62.0,3.24,37.0,68.0,0.7
+
+Ben Rothwell,Brandon Vera,Heavyweight,KO/TKO,2013.0,Milwaukee,76.0,265.0,78.0,Orthodox,1981.0,3.71,42.0,4.63,47.0,0.68,34.0,70.0,0.4,75.0,230.0,78.0,Orthodox,1977.0,3.03,56.0,2.81,52.0,0.7,53.0,59.0,0.2
+
+Dustin Poirier,Erik Koch,Featherweight,U-DEC,2013.0,Milwaukee,69.0,155.0,72.0,Southpaw,1989.0,5.51,50.0,4.25,54.0,1.39,36.0,63.0,1.2,70.0,170.0,71.0,Southpaw,1988.0,2.33,42.0,2.82,47.0,1.02,42.0,81.0,1.0
+
+Gleison Tibau,Jamie Varner,Lightweight,S-DEC,2013.0,Milwaukee,70.0,155.0,71.0,Southpaw,1983.0,1.95,31.0,2.51,63.0,4.08,53.0,92.0,0.8,68.0,155.0,71.0,Orthodox,1984.0,2.92,34.0,2.55,58.0,3.49,53.0,66.0,0.8
+
+Tim Elliott,Louis Gaudinot,Flyweight,U-DEC,2013.0,Milwaukee,67.0,125.0,66.0,Southpaw,1986.0,3.58,44.0,2.86,56.0,3.73,44.0,61.0,1.0,63.0,125.0,63.0,Orthodox,1984.0,2.34,37.0,6.42,48.0,0.57,40.0,31.0,1.1
+
+Hyun Gyu Lim,Pascal Krauss,Welterweight,KO/TKO,2013.0,Milwaukee,75.0,170.0,77.0,Orthodox,1985.0,4.45,41.0,5.07,51.0,0.23,100.0,73.0,0.2,73.0,170.0,--,Orthodox,1987.0,5.45,47.0,3.88,59.0,1.53,50.0,60.0,0.9
+
+Chico Camus,Kyung Ho Kang,Bantamweight,U-DEC,2013.0,Milwaukee,66.0,125.0,66.0,Orthodox,1985.0,2.58,41.0,2.46,64.0,0.77,40.0,72.0,0.4,69.0,135.0,73.0,Orthodox,1987.0,2.99,48.0,2.87,58.0,2.0,55.0,70.0,0.8
+
+Soa Palelei,Nikita Krylov,Heavyweight,KO/TKO,2013.0,Milwaukee,76.0,265.0,81.0,Orthodox,1977.0,2.47,57.0,2.68,48.0,2.2,47.0,66.0,0.0,75.0,205.0,77.0,Orthodox,1992.0,4.45,55.0,2.5,44.0,2.11,35.0,53.0,1.2
+
+Al Iaquinta,Ryan Couture,Lightweight,U-DEC,2013.0,Milwaukee,70.0,155.0,70.0,Orthodox,1987.0,4.06,40.0,4.53,61.0,0.63,18.0,74.0,0.2,70.0,155.0,73.0,Orthodox,1982.0,3.54,45.0,2.87,54.0,1.55,29.0,46.0,1.3
+
+Magnus Cedenblad,Jared Hamman,Middleweight,SUB,2013.0,Milwaukee,77.0,185.0,79.0,Orthodox,1982.0,2.38,51.0,3.02,40.0,2.87,64.0,66.0,1.0,75.0,185.0,75.0,Orthodox,1982.0,5.15,42.0,3.93,55.0,1.57,46.0,30.0,0.0
+
+Carlos Condit,Martin Kampmann,Welterweight,KO/TKO,2013.0,Indianapolis,74.0,170.0,75.0,Orthodox,1984.0,3.66,39.0,2.67,55.0,0.59,46.0,38.0,1.0,72.0,170.0,72.0,Orthodox,1982.0,3.22,42.0,3.28,62.0,1.86,41.0,78.0,2.0
+
+Rafael Dos Anjos,Donald Cerrone,Lightweight,U-DEC,2013.0,Indianapolis,68.0,155.0,70.0,Southpaw,1984.0,3.58,46.0,3.23,61.0,1.96,34.0,59.0,0.5,73.0,155.0,73.0,Orthodox,1983.0,4.41,46.0,4.48,53.0,1.16,33.0,73.0,1.2
+
+Kelvin Gastelum,Brian Melancon,Welterweight,SUB,2013.0,Indianapolis,69.0,185.0,71.0,Southpaw,1991.0,3.53,41.0,3.24,57.0,1.05,32.0,62.0,0.1,68.0,170.0,--,Orthodox,1982.0,4.18,49.0,3.64,64.0,2.02,100.0,66.0,0.0
+
+Court McGee,Robert Whittaker,Welterweight,S-DEC,2013.0,Indianapolis,71.0,170.0,75.0,Orthodox,1984.0,4.68,37.0,3.69,60.0,1.86,25.0,69.0,0.5,72.0,185.0,73.0,Orthodox,1990.0,4.48,42.0,3.26,61.0,0.82,37.0,84.0,0.0
+
+Takeya Mizugaki,Erik Perez,Bantamweight,S-DEC,2013.0,Indianapolis,67.0,135.0,69.0,Orthodox,1983.0,3.37,37.0,3.27,57.0,1.46,57.0,70.0,0.1,68.0,135.0,68.0,Orthodox,1989.0,3.16,40.0,2.09,66.0,3.16,55.0,69.0,0.2
+
+Brad Tavares,Robert McDaniel,Middleweight,U-DEC,2013.0,Indianapolis,73.0,185.0,74.0,Orthodox,1987.0,3.3,43.0,3.01,56.0,0.86,26.0,80.0,0.0,75.0,185.0,75.0,Southpaw,1983.0,1.64,44.0,1.98,56.0,0.93,50.0,50.0,1.4
+
+Dylan Andrews,Papy Abedi,Middleweight,KO/TKO,2013.0,Indianapolis,73.0,185.0,74.0,Switch,1979.0,2.21,50.0,2.72,46.0,2.83,50.0,57.0,0.4,71.0,185.0,--,Southpaw,1978.0,2.8,55.0,3.15,48.0,3.47,57.0,50.0,1.3
+
+Brandon Thatch,Justin Edwards,Welterweight,KO/TKO,2013.0,Indianapolis,74.0,170.0,74.0,Switch,1985.0,2.7,42.0,3.63,52.0,1.36,66.0,50.0,0.7,70.0,155.0,70.0,Orthodox,1983.0,2.68,42.0,3.32,51.0,2.14,26.0,27.0,1.0
+
+Darren Elkins,Hatsu Hioki,Featherweight,U-DEC,2013.0,Indianapolis,70.0,145.0,71.0,Orthodox,1984.0,3.52,38.0,3.16,51.0,2.76,33.0,56.0,1.1,71.0,145.0,73.0,Orthodox,1983.0,2.42,42.0,2.12,65.0,2.55,56.0,54.0,0.6
+
+Jason High,James Head,Welterweight,SUB,2013.0,Indianapolis,68.0,155.0,73.0,Southpaw,1981.0,1.28,42.0,1.56,48.0,2.36,63.0,37.0,2.8,73.0,170.0,73.0,Orthodox,1984.0,2.75,48.0,3.11,49.0,0.41,100.0,66.0,0.8
+
+Zak Cummings,Ben Alloway,Welterweight,SUB,2013.0,Indianapolis,72.0,185.0,75.0,Southpaw,1984.0,2.58,32.0,2.83,55.0,0.68,28.0,65.0,0.7,71.0,170.0,76.0,Orthodox,1981.0,1.28,49.0,1.9,59.0,0.62,50.0,26.0,0.0
+
+Roger Bowling,Abel Trujillo,Lightweight,CNC,2013.0,Indianapolis,69.0,155.0,68.0,Orthodox,1982.0,3.9,47.0,3.86,51.0,3.09,43.0,27.0,0.9,68.0,155.0,70.0,Orthodox,1983.0,2.65,41.0,2.31,59.0,2.18,45.0,40.0,0.4
+
+Chael Sonnen,Mauricio Rua,Light Heavyweight,SUB,2013.0,Boston,73.0,205.0,73.0,Southpaw,1977.0,3.08,43.0,1.1,62.0,3.81,59.0,66.0,0.4,73.0,205.0,76.0,Orthodox,1981.0,3.57,50.0,2.77,54.0,2.03,48.0,48.0,0.7
+
+Travis Browne,Alistair Overeem,Heavyweight,KO/TKO,2013.0,Boston,78.0,255.0,79.0,Orthodox,1982.0,2.93,41.0,4.31,42.0,1.21,68.0,75.0,0.2,76.0,265.0,80.0,Orthodox,1980.0,3.67,64.0,2.44,57.0,1.42,55.0,73.0,0.8
+
+Urijah Faber,Iuri Alcantara,Bantamweight,U-DEC,2013.0,Boston,66.0,135.0,67.0,Orthodox,1979.0,2.65,40.0,2.59,64.0,1.54,30.0,58.0,0.8,69.0,135.0,71.0,Southpaw,1980.0,2.72,45.0,2.79,49.0,1.44,62.0,60.0,0.8
+
+Matt Brown,Mike Pyle,Welterweight,KO/TKO,2013.0,Boston,72.0,170.0,75.0,Orthodox,1981.0,3.77,55.0,2.94,54.0,1.71,46.0,64.0,1.3,72.0,170.0,74.0,Orthodox,1975.0,2.74,45.0,2.84,60.0,1.8,35.0,70.0,1.5
+
+John Howard,Uriah Hall,Middleweight,S-DEC,2013.0,Boston,67.0,170.0,72.0,Orthodox,1983.0,2.15,50.0,3.08,51.0,2.7,49.0,53.0,0.4,72.0,185.0,79.0,Orthodox,1984.0,3.23,48.0,3.85,54.0,0.54,38.0,64.0,0.1
+
+Michael Johnson,Joe Lauzon,Lightweight,U-DEC,2013.0,Boston,70.0,155.0,73.0,Southpaw,1986.0,4.2,38.0,3.91,58.0,0.5,43.0,79.0,0.1,70.0,155.0,71.0,Orthodox,1984.0,2.84,39.0,5.39,54.0,2.39,45.0,54.0,2.0
+
+Michael McDonald,Brad Pickett,Bantamweight,SUB,2013.0,Boston,69.0,135.0,70.0,Orthodox,1991.0,2.69,42.0,2.76,57.0,1.09,66.0,52.0,1.4,66.0,135.0,68.0,Orthodox,1978.0,3.02,31.0,4.63,55.0,2.47,44.0,58.0,0.4
+
+Conor McGregor,Max Holloway,Featherweight,U-DEC,2013.0,Boston,69.0,155.0,74.0,Southpaw,1988.0,5.32,49.0,4.66,54.0,0.67,55.0,66.0,0.1,71.0,145.0,69.0,Orthodox,1991.0,7.24,47.0,4.89,59.0,0.29,53.0,84.0,0.3
+
+Steven Siler,Mike Brown,Featherweight,KO/TKO,2013.0,Boston,71.0,145.0,70.0,Orthodox,1987.0,3.21,41.0,2.96,54.0,0.47,21.0,55.0,1.6,66.0,145.0,70.0,Orthodox,1975.0,2.98,44.0,2.45,60.0,3.23,40.0,66.0,0.6
+
+Diego Brandao,Daniel Pineda,Featherweight,U-DEC,2013.0,Boston,67.0,145.0,64.0,Orthodox,1987.0,2.94,47.0,3.38,62.0,3.21,68.0,80.0,0.6,67.0,145.0,69.0,Orthodox,1985.0,3.35,48.0,2.97,45.0,1.42,22.0,42.0,1.6
+
+Manvel Gamburyan,Cole Miller,Featherweight,U-DEC,2013.0,Boston,65.0,135.0,67.0,Orthodox,1981.0,2.13,41.0,2.83,55.0,3.26,34.0,69.0,0.7,73.0,145.0,73.0,Orthodox,1984.0,3.0,33.0,3.88,59.0,0.6,36.0,38.0,1.8
+
+Ovince Saint Preux,Cody Donovan,Light Heavyweight,KO/TKO,2013.0,Boston,75.0,205.0,80.0,Southpaw,1983.0,2.72,47.0,3.09,45.0,1.15,38.0,66.0,0.5,75.0,205.0,74.0,Orthodox,1981.0,5.61,59.0,5.44,45.0,1.67,28.0,0.0,1.7
+
+James Vick,Ramsey Nijem,Lightweight,SUB,2013.0,Boston,75.0,155.0,76.0,Orthodox,1987.0,4.13,39.0,3.31,60.0,0.26,33.0,57.0,0.7,71.0,155.0,75.0,Orthodox,1988.0,3.05,44.0,1.62,62.0,5.32,62.0,55.0,1.1
+
+Jose Aldo,Chan Sung Jung,Featherweight,KO/TKO,2013.0,RiodeJaneiro,67.0,135.0,70.0,Orthodox,1986.0,3.57,46.0,3.74,60.0,0.49,54.0,91.0,0.1,67.0,145.0,72.0,Orthodox,1987.0,3.97,42.0,4.35,52.0,0.74,47.0,72.0,0.7
+
+Phil Davis,Lyoto Machida,Light Heavyweight,U-DEC,2013.0,RiodeJaneiro,74.0,205.0,79.0,Orthodox,1984.0,2.85,34.0,1.33,72.0,2.99,38.0,72.0,0.6,73.0,185.0,74.0,Southpaw,1978.0,2.59,53.0,1.57,61.0,1.21,65.0,75.0,0.4
+
+Cezar Ferreira,Thiago Santos,Middleweight,SUB,2013.0,RiodeJaneiro,73.0,185.0,78.0,Southpaw,1985.0,1.9,42.0,2.44,53.0,2.69,53.0,84.0,0.5,74.0,205.0,76.0,Orthodox,1984.0,3.72,48.0,2.57,53.0,0.88,33.0,65.0,0.1
+
+Thales Leites,Tom Watson,Middleweight,U-DEC,2013.0,RiodeJaneiro,73.0,185.0,78.0,Orthodox,1981.0,2.13,40.0,2.99,52.0,2.1,27.0,30.0,1.1,73.0,185.0,73.0,Orthodox,1982.0,4.01,44.0,4.41,50.0,0.15,7.0,43.0,0.0
+
+John Lineker,Jose Maria,Flyweight,KO/TKO,2013.0,RiodeJaneiro,63.0,135.0,67.0,Orthodox,1990.0,5.36,40.0,4.27,56.0,0.56,58.0,67.0,0.6,65.0,125.0,--,Orthodox,1982.0,3.2,53.0,3.98,52.0,2.32,27.0,33.0,2.3
+
+Anthony Perosh,Vinny Magalhaes,Light Heavyweight,KO/TKO,2013.0,RiodeJaneiro,75.0,205.0,75.0,Orthodox,1972.0,2.27,43.0,3.77,53.0,2.03,22.0,33.0,1.1,75.0,205.0,75.0,Orthodox,1984.0,2.14,24.0,3.97,68.0,1.55,44.0,66.0,0.8
+
+Amanda Nunes,Sheila Gaff,Women's Bantamweight,KO/TKO,2013.0,RiodeJaneiro,68.0,135.0,69.0,Orthodox,1988.0,4.4,51.0,2.75,55.0,2.61,56.0,82.0,0.8,65.0,135.0,--,Orthodox,1989.0,1.6,50.0,2.89,28.0,0.0,0.0,20.0,0.0
+
+Sergio Moraes,Neil Magny,Welterweight,SUB,2013.0,RiodeJaneiro,72.0,170.0,72.0,Orthodox,1982.0,2.42,42.0,3.73,59.0,1.2,38.0,75.0,0.4,75.0,170.0,80.0,Orthodox,1987.0,3.62,46.0,2.27,54.0,2.43,42.0,57.0,0.3
+
+Ian McCall,Iliarde Santos,Flyweight,U-DEC,2013.0,RiodeJaneiro,65.0,125.0,64.0,Orthodox,1984.0,3.59,39.0,3.25,67.0,2.08,30.0,88.0,0.0,65.0,125.0,67.0,Orthodox,1980.0,3.0,30.0,6.1,57.0,1.66,23.0,83.0,0.0
+
+Rani Yahya,Josh Clopton,Featherweight,U-DEC,2013.0,RiodeJaneiro,66.0,135.0,67.0,Orthodox,1984.0,1.58,38.0,1.76,50.0,2.9,33.0,24.0,1.9,66.0,145.0,--,Orthodox,1981.0,1.6,64.0,2.87,50.0,2.0,66.0,75.0,0.0
+
+Francimar Barroso,Ednaldo Oliveira,Light Heavyweight,U-DEC,2013.0,RiodeJaneiro,73.0,205.0,75.0,Orthodox,1980.0,2.77,52.0,3.07,59.0,2.22,24.0,83.0,0.0,77.0,205.0,--,Orthodox,1984.0,1.03,22.0,1.8,52.0,0.0,0.0,42.0,0.0
+
+Viscardi Andrade,Bristol Marunde,Welterweight,KO/TKO,2013.0,RiodeJaneiro,71.0,170.0,75.0,Orthodox,1984.0,3.26,42.0,2.77,63.0,1.93,50.0,66.0,0.3,73.0,170.0,75.0,Orthodox,1982.0,1.42,21.0,4.4,47.0,1.6,33.0,14.0,0.0
+
+Demetrious Johnson,John Moraga,Flyweight,SUB,2013.0,Seattle,63.0,125.0,66.0,Orthodox,1986.0,3.43,54.0,1.66,67.0,3.35,56.0,65.0,0.5,66.0,125.0,66.0,Orthodox,1984.0,2.57,43.0,2.55,56.0,0.62,23.0,44.0,1.1
+
+Rory MacDonald,Jake Ellenberger,Welterweight,U-DEC,2013.0,Seattle,72.0,170.0,76.0,Orthodox,1989.0,3.75,42.0,2.8,62.0,1.77,47.0,88.0,0.4,69.0,170.0,71.0,Orthodox,1985.0,2.47,39.0,2.83,60.0,2.04,47.0,86.0,0.4
+
+Robbie Lawler,Bobby Voelker,Welterweight,KO/TKO,2013.0,Seattle,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,72.0,170.0,74.0,Orthodox,1979.0,4.01,35.0,5.84,42.0,1.04,50.0,66.0,0.0
+
+Liz Carmouche,Jessica Andrade,Women's Bantamweight,KO/TKO,2013.0,Seattle,66.0,125.0,66.0,Orthodox,1984.0,2.78,54.0,2.51,61.0,2.57,51.0,65.0,0.3,61.0,125.0,62.0,Orthodox,1991.0,6.16,50.0,5.16,53.0,2.85,55.0,66.0,0.5
+
+Jorge Masvidal,Michael Chiesa,Lightweight,SUB,2013.0,Seattle,71.0,170.0,74.0,Orthodox,1984.0,4.11,48.0,3.06,64.0,1.44,59.0,74.0,0.3,73.0,170.0,75.0,Southpaw,1987.0,1.88,41.0,1.67,54.0,3.39,54.0,60.0,1.0
+
+Danny Castillo,Tim Means,Lightweight,U-DEC,2013.0,Seattle,69.0,155.0,71.0,Orthodox,1979.0,2.57,42.0,1.96,62.0,2.95,38.0,63.0,0.2,74.0,170.0,75.0,Orthodox,1984.0,4.91,48.0,3.58,60.0,1.13,41.0,65.0,0.2
+
+Melvin Guillard,Mac Danzig,Lightweight,KO/TKO,2013.0,Seattle,69.0,155.0,71.0,Orthodox,1983.0,2.96,40.0,1.85,66.0,1.3,63.0,61.0,0.2,68.0,155.0,70.0,Orthodox,1980.0,3.39,48.0,3.44,57.0,1.2,37.0,46.0,0.6
+
+Daron Cruickshank,Yves Edwards,Lightweight,S-DEC,2013.0,Seattle,68.0,155.0,72.0,Switch,1985.0,2.88,38.0,2.98,57.0,2.04,41.0,60.0,0.2,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7
+
+Ed Herman,Trevor Smith,Middleweight,S-DEC,2013.0,Seattle,73.0,205.0,77.0,Orthodox,1980.0,3.28,48.0,3.52,42.0,2.08,48.0,59.0,1.1,75.0,185.0,75.0,Orthodox,1981.0,3.29,55.0,3.31,51.0,1.7,32.0,60.0,0.7
+
+Germaine de Randamie,Julie Kedzie,Women's Bantamweight,S-DEC,2013.0,Seattle,69.0,135.0,71.0,Orthodox,1984.0,2.72,46.0,2.14,65.0,0.0,0.0,69.0,0.4,65.0,135.0,--,Orthodox,1981.0,2.9,36.0,3.18,46.0,1.14,23.0,78.0,0.0
+
+Justin Salas,Aaron Riley,Lightweight,S-DEC,2013.0,Seattle,68.0,155.0,70.0,Southpaw,1982.0,3.42,43.0,2.96,68.0,2.43,20.0,0.0,0.0,68.0,155.0,69.0,Southpaw,1980.0,3.45,34.0,3.78,61.0,1.18,34.0,60.0,0.1
+
+Yaotzin Meza,John Albert,Bantamweight,SUB,2013.0,Seattle,69.0,145.0,71.0,Orthodox,1981.0,1.43,41.0,1.62,64.0,1.06,20.0,18.0,1.4,68.0,135.0,68.0,Orthodox,1986.0,3.05,49.0,2.82,35.0,0.0,0.0,50.0,6.1
+
+Chris Weidman,Anderson Silva,Middleweight,KO/TKO,2013.0,LasVegas,74.0,185.0,78.0,Orthodox,1984.0,3.03,43.0,3.14,52.0,3.92,47.0,65.0,0.9,74.0,185.0,77.0,Southpaw,1975.0,3.05,61.0,2.05,60.0,0.5,77.0,69.0,0.8
+
+Frankie Edgar,Charles Oliveira,Featherweight,U-DEC,2013.0,LasVegas,66.0,135.0,68.0,Orthodox,1981.0,3.77,40.0,2.82,65.0,2.29,31.0,65.0,0.3,70.0,155.0,74.0,Orthodox,1989.0,3.48,53.0,3.2,51.0,2.37,40.0,55.0,2.8
+
+Tim Kennedy,Roger Gracie,Middleweight,U-DEC,2013.0,LasVegas,71.0,185.0,74.0,Orthodox,1979.0,2.78,47.0,1.84,62.0,2.58,35.0,70.0,0.7,76.0,185.0,79.0,Orthodox,1981.0,1.78,35.0,1.79,61.0,1.87,53.0,60.0,1.9
+
+Mark Munoz,Tim Boetsch,Middleweight,U-DEC,2013.0,LasVegas,72.0,185.0,71.0,Orthodox,1978.0,3.12,51.0,2.26,57.0,3.17,29.0,57.0,0.6,72.0,185.0,74.0,Orthodox,1981.0,2.93,50.0,2.9,57.0,1.45,34.0,59.0,0.8
+
+Cub Swanson,Dennis Siver,Featherweight,KO/TKO,2013.0,LasVegas,68.0,135.0,70.0,Orthodox,1983.0,4.68,50.0,3.73,60.0,1.09,52.0,61.0,0.4,66.0,145.0,70.0,Orthodox,1979.0,3.87,32.0,2.67,65.0,0.87,32.0,65.0,0.3
+
+Andrew Craig,Chris Leben,Middleweight,S-DEC,2013.0,LasVegas,73.0,170.0,76.0,Orthodox,1986.0,2.39,40.0,3.01,50.0,0.53,37.0,72.0,0.0,71.0,185.0,73.0,Southpaw,1980.0,2.87,42.0,2.87,52.0,1.14,41.0,53.0,0.8
+
+Norman Parke,Kazuki Tokudome,Lightweight,U-DEC,2013.0,LasVegas,71.0,155.0,70.0,Southpaw,1986.0,3.06,35.0,2.88,64.0,1.98,26.0,77.0,0.0,71.0,155.0,73.0,Southpaw,1987.0,2.26,41.0,3.63,53.0,2.0,38.0,78.0,0.0
+
+Gabriel Gonzaga,Dave Herman,Heavyweight,KO/TKO,2013.0,LasVegas,74.0,242.0,76.0,Orthodox,1979.0,2.12,45.0,2.94,57.0,2.8,39.0,66.0,1.1,76.0,242.0,77.0,Orthodox,1984.0,4.98,60.0,3.78,48.0,1.49,100.0,58.0,0.0
+
+Edson Barboza,Rafaello Oliveira,Lightweight,KO/TKO,2013.0,LasVegas,71.0,145.0,75.0,Orthodox,1986.0,3.96,44.0,4.1,58.0,0.38,44.0,75.0,0.1,68.0,155.0,71.0,Orthodox,1982.0,2.19,33.0,3.38,59.0,2.49,36.0,11.0,1.6
+
+Brian Melancon,Seth Baczynski,Welterweight,KO/TKO,2013.0,LasVegas,68.0,170.0,--,Orthodox,1982.0,4.18,49.0,3.64,64.0,2.02,100.0,66.0,0.0,75.0,170.0,75.0,Orthodox,1981.0,3.08,31.0,3.14,51.0,0.89,16.0,48.0,0.8
+
+Mike Pierce,David Mitchell,Welterweight,KO/TKO,2013.0,LasVegas,68.0,170.0,71.0,Orthodox,1980.0,2.62,42.0,2.36,62.0,3.08,42.0,71.0,0.2,72.0,170.0,75.0,Orthodox,1979.0,1.74,32.0,2.06,55.0,0.66,50.0,29.0,2.0
+
+Rashad Evans,Dan Henderson,Light Heavyweight,S-DEC,2013.0,Winnipeg,72.0,205.0,75.0,Orthodox,1979.0,2.14,37.0,2.42,63.0,2.98,44.0,73.0,0.0,71.0,185.0,74.0,Orthodox,1970.0,2.44,47.0,2.7,51.0,1.52,52.0,57.0,0.3
+
+Stipe Miocic,Roy Nelson,Heavyweight,U-DEC,2013.0,Winnipeg,76.0,240.0,80.0,Orthodox,1982.0,4.82,53.0,3.82,54.0,1.86,34.0,68.0,0.0,72.0,263.0,73.0,Orthodox,1976.0,2.18,36.0,4.79,46.0,1.14,27.0,65.0,0.1
+
+Ryan Jimmo,Igor Pokrajac,Light Heavyweight,U-DEC,2013.0,Winnipeg,73.0,205.0,73.0,Orthodox,1981.0,3.12,66.0,2.77,46.0,0.45,28.0,87.0,0.0,72.0,205.0,74.0,Orthodox,1979.0,2.25,45.0,4.26,40.0,0.87,29.0,51.0,0.2
+
+Alexis Davis,Rosi Sexton,Women's Bantamweight,U-DEC,2013.0,Winnipeg,66.0,135.0,68.0,Orthodox,1984.0,4.63,49.0,4.45,54.0,0.95,44.0,34.0,0.7,63.0,135.0,--,Orthodox,1977.0,3.31,39.0,7.42,41.0,0.75,10.0,80.0,0.0
+
+Shawn Jordan,Pat Barry,Heavyweight,KO/TKO,2013.0,Winnipeg,72.0,260.0,75.0,Southpaw,1984.0,2.87,50.0,3.3,47.0,1.97,38.0,76.0,0.1,71.0,235.0,74.0,Orthodox,1979.0,2.72,52.0,3.54,59.0,0.0,0.0,76.0,0.2
+
+Jake Shields,Tyron Woodley,Welterweight,S-DEC,2013.0,Winnipeg,72.0,170.0,72.0,Orthodox,1979.0,2.45,36.0,1.8,56.0,2.83,29.0,35.0,1.2,69.0,170.0,74.0,Orthodox,1982.0,2.36,48.0,2.76,54.0,1.06,40.0,87.0,0.4
+
+James Krause,Sam Stout,Lightweight,SUB,2013.0,Winnipeg,74.0,170.0,73.0,Orthodox,1986.0,4.79,49.0,4.11,61.0,0.96,18.0,59.0,0.9,69.0,155.0,70.0,Orthodox,1984.0,4.17,28.0,4.08,57.0,0.63,38.0,77.0,0.1
+
+Sean Pierson,Kenny Robertson,Welterweight,M-DEC,2013.0,Winnipeg,72.0,170.0,76.0,Southpaw,1976.0,3.84,39.0,3.73,64.0,0.39,18.0,66.0,0.4,70.0,170.0,74.0,Orthodox,1984.0,3.72,47.0,3.02,52.0,1.37,26.0,57.0,0.8
+
+Roland Delorme,Edwin Figueroa,Bantamweight,U-DEC,2013.0,Winnipeg,69.0,135.0,71.0,Orthodox,1983.0,2.28,44.0,4.32,40.0,2.51,34.0,42.0,1.6,67.0,135.0,69.0,Orthodox,1984.0,2.57,39.0,3.06,51.0,0.2,100.0,37.0,0.6
+
+Mitch Clarke,John Maguire,Lightweight,U-DEC,2013.0,Winnipeg,70.0,155.0,73.0,Orthodox,1985.0,2.35,34.0,3.27,47.0,0.64,15.0,50.0,0.4,69.0,155.0,69.0,Southpaw,1983.0,1.41,41.0,2.44,65.0,2.8,46.0,77.0,1.1
+
+Yves Jabouin,Dustin Pague,Bantamweight,S-DEC,2013.0,Winnipeg,67.0,135.0,68.0,Orthodox,1979.0,3.06,41.0,2.93,62.0,1.94,60.0,82.0,0.1,69.0,135.0,74.0,Orthodox,1987.0,1.65,53.0,2.96,41.0,1.03,44.0,55.0,2.6
+
+Fabricio Werdum,Antonio Rodrigo Nogueira,Heavyweight,SUB,2013.0,Fortaleza,76.0,231.0,77.0,Orthodox,1977.0,3.59,52.0,2.64,55.0,1.75,31.0,31.0,1.2,75.0,240.0,77.0,Orthodox,1976.0,1.95,42.0,2.4,55.0,1.3,29.0,36.0,2.4
+
+Leonardo Santos,William Macario,Welterweight,SUB,2013.0,Fortaleza,72.0,155.0,75.0,Orthodox,1980.0,2.82,46.0,3.4,54.0,0.88,25.0,86.0,0.2,71.0,170.0,75.0,Orthodox,1991.0,4.92,54.0,3.96,65.0,1.85,45.0,78.0,0.0
+
+Thiago Silva,Rafael Cavalcante,Light Heavyweight,KO/TKO,2013.0,Fortaleza,74.0,205.0,74.0,Orthodox,1982.0,3.92,50.0,2.55,67.0,1.03,47.0,70.0,0.7,73.0,205.0,74.0,Orthodox,1980.0,2.71,53.0,3.62,49.0,0.6,40.0,63.0,0.1
+
+Erick Silva,Jason High,Welterweight,SUB,2013.0,Fortaleza,72.0,170.0,74.0,Orthodox,1984.0,2.5,48.0,4.18,49.0,0.85,35.0,56.0,1.4,68.0,155.0,73.0,Southpaw,1981.0,1.28,42.0,1.56,48.0,2.36,63.0,37.0,2.8
+
+Daniel Sarafian,Eddie Mendez,Middleweight,SUB,2013.0,Fortaleza,69.0,185.0,73.0,Orthodox,1982.0,2.23,46.0,3.1,58.0,0.36,7.0,53.0,0.7,70.0,185.0,--,,1984.0,1.71,33.0,3.43,11.0,0.0,0.0,0.0,0.0
+
+Rony Jason,Mike Wilkinson,Featherweight,SUB,2013.0,Fortaleza,67.0,145.0,73.0,Orthodox,1984.0,2.04,44.0,3.14,53.0,0.59,30.0,36.0,0.8,67.0,145.0,66.0,Orthodox,1987.0,2.35,38.0,3.7,35.0,0.92,14.0,55.0,0.9
+
+Raphael Assuncao,Vaughan Lee,Bantamweight,SUB,2013.0,Fortaleza,65.0,135.0,66.0,Orthodox,1982.0,3.24,41.0,2.41,67.0,1.47,38.0,78.0,0.3,66.0,125.0,66.0,Orthodox,1982.0,3.47,47.0,2.07,70.0,0.81,33.0,72.0,1.0
+
+Felipe Arantes,Godofredo Pepey,Featherweight,KO/TKO,2013.0,Fortaleza,68.0,135.0,73.0,Orthodox,1988.0,2.37,45.0,2.66,64.0,0.93,47.0,41.0,0.7,67.0,145.0,73.0,Orthodox,1987.0,2.32,38.0,3.23,47.0,0.37,7.0,35.0,1.5
+
+Ildemar Alcantara,Leandro Silva,Welterweight,U-DEC,2013.0,Fortaleza,74.0,185.0,78.0,Orthodox,1982.0,1.93,38.0,2.63,50.0,2.0,68.0,81.0,0.9,69.0,155.0,72.0,Orthodox,1985.0,2.39,48.0,2.08,63.0,1.76,37.0,65.0,0.4
+
+Rodrigo Damm,Mizuto Hirota,Featherweight,S-DEC,2013.0,Fortaleza,67.0,155.0,71.0,Orthodox,1980.0,3.5,36.0,5.61,57.0,0.44,16.0,80.0,0.3,67.0,155.0,67.0,Orthodox,1981.0,3.36,40.0,3.5,54.0,1.36,50.0,58.0,0.1
+
+Caio Magalhaes,Karlos Vemola,Middleweight,SUB,2013.0,Fortaleza,73.0,185.0,73.0,Orthodox,1987.0,2.27,40.0,2.78,56.0,1.05,15.0,58.0,1.6,72.0,185.0,75.0,Orthodox,1985.0,1.67,44.0,2.13,37.0,1.93,25.0,31.0,1.7
+
+Antonio Braga Neto,Anthony Smith,Middleweight,SUB,2013.0,Fortaleza,75.0,185.0,77.0,Orthodox,1987.0,1.36,33.0,3.92,45.0,3.07,37.0,0.0,0.5,76.0,205.0,76.0,Orthodox,1988.0,2.99,47.0,4.37,42.0,0.44,27.0,48.0,0.7
+
+Cain Velasquez,Antonio Silva,Heavyweight,KO/TKO,2013.0,LasVegas,73.0,240.0,77.0,Orthodox,1982.0,6.37,57.0,2.33,57.0,5.13,45.0,85.0,0.4,76.0,264.0,82.0,Orthodox,1979.0,2.89,45.0,3.09,50.0,0.82,29.0,66.0,0.8
+
+Junior Dos Santos,Mark Hunt,Heavyweight,KO/TKO,2013.0,LasVegas,76.0,238.0,77.0,Orthodox,1984.0,4.49,47.0,3.33,56.0,0.3,50.0,81.0,0.1,70.0,265.0,72.0,Orthodox,1974.0,2.81,43.0,2.9,51.0,0.51,55.0,64.0,0.2
+
+Glover Teixeira,James Te Huna,Light Heavyweight,SUB,2013.0,LasVegas,74.0,205.0,76.0,Orthodox,1979.0,3.8,50.0,3.93,52.0,2.2,37.0,60.0,1.0,74.0,185.0,75.0,Orthodox,1981.0,4.04,51.0,2.99,62.0,2.75,37.0,58.0,0.2
+
+TJ Grant,Gray Maynard,Lightweight,KO/TKO,2013.0,LasVegas,70.0,155.0,72.0,Orthodox,1984.0,3.95,54.0,3.21,56.0,1.63,43.0,36.0,0.6,69.0,155.0,70.0,Orthodox,1979.0,1.92,32.0,2.64,66.0,2.91,47.0,81.0,0.7
+
+Donald Cerrone,KJ Noons,Lightweight,U-DEC,2013.0,LasVegas,73.0,155.0,73.0,Orthodox,1983.0,4.41,46.0,4.48,53.0,1.16,33.0,73.0,1.2,70.0,155.0,70.0,Orthodox,1982.0,3.68,35.0,3.78,65.0,0.08,20.0,68.0,0.0
+
+Mike Pyle,Rick Story,Welterweight,S-DEC,2013.0,LasVegas,72.0,170.0,74.0,Orthodox,1975.0,2.74,45.0,2.84,60.0,1.8,35.0,70.0,1.5,69.0,170.0,71.0,Southpaw,1984.0,3.8,41.0,2.17,62.0,2.53,48.0,63.0,0.9
+
+Dennis Bermudez,Max Holloway,Featherweight,S-DEC,2013.0,LasVegas,66.0,155.0,66.0,Orthodox,1986.0,4.42,46.0,3.07,59.0,3.89,40.0,82.0,1.1,71.0,145.0,69.0,Orthodox,1991.0,7.24,47.0,4.89,59.0,0.29,53.0,84.0,0.3
+
+Robert Whittaker,Colton Smith,Welterweight,KO/TKO,2013.0,LasVegas,72.0,185.0,73.0,Orthodox,1990.0,4.48,42.0,3.26,61.0,0.82,37.0,84.0,0.0,72.0,155.0,71.0,Orthodox,1987.0,1.64,41.0,2.3,51.0,4.09,36.0,25.0,1.4
+
+Khabib Nurmagomedov,Abel Trujillo,Lightweight,U-DEC,2013.0,LasVegas,70.0,155.0,70.0,Orthodox,1988.0,4.1,48.0,1.75,65.0,5.32,48.0,84.0,0.8,68.0,155.0,70.0,Orthodox,1983.0,2.65,41.0,2.31,59.0,2.18,45.0,40.0,0.4
+
+Stephen Thompson,Nah-Shon Burrell,Welterweight,U-DEC,2013.0,LasVegas,72.0,170.0,75.0,Orthodox,1983.0,3.9,43.0,2.81,56.0,0.29,41.0,63.0,0.0,71.0,170.0,--,Orthodox,1990.0,4.83,47.0,3.45,56.0,0.0,0.0,52.0,0.3
+
+George Roop,Brian Bowles,Bantamweight,KO/TKO,2013.0,LasVegas,73.0,135.0,72.0,Orthodox,1981.0,3.43,34.0,2.47,60.0,1.05,57.0,59.0,0.1,67.0,135.0,70.0,Orthodox,1980.0,2.36,26.0,2.98,64.0,1.39,70.0,54.0,1.4
+
+Jeremy Stephens,Estevan Payan,Featherweight,U-DEC,2013.0,LasVegas,69.0,145.0,71.0,Orthodox,1986.0,3.17,40.0,3.05,58.0,1.16,38.0,65.0,0.4,70.0,145.0,--,Orthodox,1982.0,4.25,42.0,3.58,57.0,0.36,100.0,60.0,0.4
+
+Vitor Belfort,Luke Rockhold,Middleweight,KO/TKO,2013.0,JaraguadoSul,72.0,185.0,74.0,Southpaw,1977.0,1.59,46.0,2.83,50.0,1.02,60.0,53.0,0.6,75.0,185.0,77.0,Southpaw,1984.0,4.1,49.0,2.68,53.0,0.7,29.0,65.0,1.0
+
+Jacare Souza,Chris Camozzi,Middleweight,SUB,2013.0,JaraguadoSul,73.0,185.0,72.0,Orthodox,1979.0,2.53,47.0,2.83,62.0,2.57,39.0,57.0,1.3,74.0,185.0,75.0,Orthodox,1986.0,3.57,44.0,2.96,56.0,0.27,19.0,57.0,0.5
+
+Rafael Dos Anjos,Evan Dunham,Lightweight,U-DEC,2013.0,JaraguadoSul,68.0,155.0,70.0,Southpaw,1984.0,3.58,46.0,3.23,61.0,1.96,34.0,59.0,0.5,70.0,155.0,70.0,Southpaw,1981.0,5.33,39.0,3.54,61.0,1.82,33.0,79.0,1.0
+
+Rafael Natal,Joao Zeferino,Middleweight,U-DEC,2013.0,JaraguadoSul,72.0,185.0,77.0,Orthodox,1982.0,3.1,47.0,2.48,57.0,2.55,34.0,77.0,0.5,71.0,170.0,--,Orthodox,1986.0,0.83,36.0,2.6,48.0,0.5,5.0,50.0,1.0
+
+Nik Lentz,Hacran Dias,Featherweight,U-DEC,2013.0,JaraguadoSul,68.0,145.0,68.0,Orthodox,1984.0,3.44,47.0,3.25,50.0,3.3,32.0,43.0,1.2,68.0,155.0,69.0,Orthodox,1984.0,2.08,41.0,3.31,55.0,2.5,39.0,76.0,0.5
+
+Francisco Trinaldo,Mike Rio,Lightweight,SUB,2013.0,JaraguadoSul,69.0,170.0,70.0,Southpaw,1978.0,3.13,45.0,2.67,60.0,0.98,42.0,60.0,0.5,70.0,155.0,70.0,Orthodox,1981.0,1.68,39.0,2.99,53.0,2.58,27.0,0.0,1.0
+
+Gleison Tibau,John Cholish,Lightweight,SUB,2013.0,JaraguadoSul,70.0,155.0,71.0,Southpaw,1983.0,1.95,31.0,2.51,63.0,4.08,53.0,92.0,0.8,71.0,155.0,74.0,Orthodox,1983.0,2.65,49.0,2.29,73.0,1.82,31.0,78.0,0.4
+
+Paulo Thiago,Michel Prazeres,Welterweight,U-DEC,2013.0,JaraguadoSul,71.0,170.0,74.0,Orthodox,1981.0,1.71,39.0,1.99,63.0,1.42,31.0,63.0,1.2,66.0,170.0,67.0,Orthodox,1981.0,2.38,47.0,2.51,57.0,3.94,36.0,47.0,0.6
+
+Iuri Alcantara,Iliarde Santos,Bantamweight,KO/TKO,2013.0,JaraguadoSul,69.0,135.0,71.0,Southpaw,1980.0,2.72,45.0,2.79,49.0,1.44,62.0,60.0,0.8,65.0,125.0,67.0,Orthodox,1980.0,3.0,30.0,6.1,57.0,1.66,23.0,83.0,0.0
+
+Fabio Maldonado,Roger Hollett,Light Heavyweight,U-DEC,2013.0,JaraguadoSul,73.0,205.0,75.0,Orthodox,1980.0,5.29,58.0,4.31,53.0,0.44,57.0,61.0,0.6,71.0,205.0,--,Orthodox,1978.0,1.83,47.0,6.47,34.0,1.0,28.0,30.0,0.0
+
+John Lineker,Azamat Gashimov,Flyweight,KO/TKO,2013.0,JaraguadoSul,63.0,135.0,67.0,Orthodox,1990.0,5.36,40.0,4.27,56.0,0.56,58.0,67.0,0.6,66.0,125.0,--,Orthodox,1990.0,1.24,21.0,4.75,53.0,1.69,25.0,0.0,0.0
+
+Jussier Formiga,Chris Cariaso,Flyweight,U-DEC,2013.0,JaraguadoSul,65.0,125.0,67.0,Orthodox,1985.0,1.42,39.0,2.34,64.0,1.82,35.0,87.0,0.6,63.0,125.0,64.0,Southpaw,1981.0,3.35,43.0,2.23,61.0,1.11,39.0,57.0,0.8
+
+Lucas Martins,Jeremy Larsen,Lightweight,KO/TKO,2013.0,JaraguadoSul,72.0,145.0,72.0,Southpaw,1988.0,2.87,35.0,4.14,60.0,0.0,0.0,76.0,0.5,70.0,145.0,70.0,Orthodox,1984.0,4.87,48.0,5.75,57.0,2.49,33.0,0.0,0.0
+
+Jon Jones,Chael Sonnen,Light Heavyweight,KO/TKO,2013.0,Newark,76.0,205.0,84.0,Orthodox,1987.0,4.3,57.0,2.22,64.0,1.85,44.0,95.0,0.4,73.0,205.0,73.0,Southpaw,1977.0,3.08,43.0,1.1,62.0,3.81,59.0,66.0,0.4
+
+Michael Bisping,Alan Belcher,Middleweight,U-DEC,2013.0,Newark,73.0,185.0,75.0,Orthodox,1979.0,4.33,38.0,2.71,65.0,1.05,43.0,63.0,0.3,74.0,185.0,75.0,Orthodox,1984.0,2.7,41.0,3.1,59.0,0.44,26.0,55.0,0.9
+
+Roy Nelson,Cheick Kongo,Heavyweight,KO/TKO,2013.0,Newark,72.0,263.0,73.0,Orthodox,1976.0,2.18,36.0,4.79,46.0,1.14,27.0,65.0,0.1,76.0,240.0,82.0,Orthodox,1975.0,3.33,56.0,1.28,54.0,2.3,56.0,52.0,0.2
+
+Phil Davis,Vinny Magalhaes,Light Heavyweight,U-DEC,2013.0,Newark,74.0,205.0,79.0,Orthodox,1984.0,2.85,34.0,1.33,72.0,2.99,38.0,72.0,0.6,75.0,205.0,75.0,Orthodox,1984.0,2.14,24.0,3.97,68.0,1.55,44.0,66.0,0.8
+
+Jim Miller,Pat Healy,Lightweight,Overturned,2013.0,Newark,68.0,155.0,71.0,Southpaw,1983.0,2.79,41.0,2.93,58.0,1.62,43.0,47.0,1.8,72.0,155.0,72.0,Orthodox,1983.0,2.57,36.0,2.57,50.0,3.08,37.0,55.0,1.1
+
+Rustam Khabilov,Yancy Medeiros,Lightweight,KO/TKO,2013.0,Newark,68.0,155.0,73.0,Orthodox,1986.0,1.98,34.0,2.16,65.0,3.95,41.0,61.0,0.1,70.0,155.0,75.0,Orthodox,1987.0,4.36,37.0,5.67,47.0,0.33,50.0,73.0,0.7
+
+Ovince Saint Preux,Gian Villante,Light Heavyweight,M-DEC,2013.0,Newark,75.0,205.0,80.0,Southpaw,1983.0,2.72,47.0,3.09,45.0,1.15,38.0,66.0,0.5,75.0,230.0,76.0,Orthodox,1985.0,4.38,44.0,5.47,55.0,0.45,23.0,83.0,0.0
+
+Sara McMann,Sheila Gaff,Women's Bantamweight,KO/TKO,2013.0,Newark,66.0,135.0,66.0,Orthodox,1980.0,2.26,46.0,1.92,47.0,4.38,65.0,50.0,0.5,65.0,135.0,--,Orthodox,1989.0,1.6,50.0,2.89,28.0,0.0,0.0,20.0,0.0
+
+Bryan Caraway,Johnny Bedford,Bantamweight,SUB,2013.0,Newark,68.0,135.0,68.0,Orthodox,1984.0,2.53,34.0,3.61,54.0,2.57,25.0,80.0,0.8,70.0,135.0,71.0,Orthodox,1983.0,4.53,50.0,1.75,63.0,1.83,62.0,62.0,0.0
+
+Cody McKenzie,Leonard Garcia,Featherweight,U-DEC,2013.0,Newark,72.0,155.0,72.0,Switch,1987.0,1.74,34.0,2.5,67.0,2.5,25.0,14.0,2.5,70.0,145.0,68.0,Orthodox,1979.0,2.77,24.0,4.79,52.0,0.3,26.0,42.0,0.5
+
+Steven Siler,Kurt Holobaugh,Featherweight,U-DEC,2013.0,Newark,71.0,145.0,70.0,Orthodox,1987.0,3.21,41.0,2.96,54.0,0.47,21.0,55.0,1.6,71.0,155.0,70.0,Orthodox,1986.0,4.51,42.0,4.28,46.0,0.97,36.0,45.0,0.7
+
+Benson Henderson,Gilbert Melendez,Lightweight,S-DEC,2013.0,SanJose,69.0,170.0,70.0,Southpaw,1983.0,2.93,45.0,1.79,63.0,2.4,45.0,63.0,0.8,69.0,145.0,73.0,Orthodox,1982.0,3.44,33.0,2.53,63.0,1.64,41.0,71.0,0.2
+
+Daniel Cormier,Frank Mir,Heavyweight,U-DEC,2013.0,SanJose,71.0,235.0,72.0,Orthodox,1979.0,4.25,52.0,2.92,54.0,1.83,44.0,80.0,0.4,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0
+
+Josh Thomson,Nate Diaz,Lightweight,KO/TKO,2013.0,SanJose,70.0,155.0,71.0,Orthodox,1978.0,2.59,47.0,2.12,64.0,1.92,39.0,54.0,1.3,72.0,170.0,76.0,Southpaw,1985.0,4.57,45.0,3.77,52.0,1.05,30.0,41.0,1.3
+
+Matt Brown,Jordan Mein,Welterweight,KO/TKO,2013.0,SanJose,72.0,170.0,75.0,Orthodox,1981.0,3.77,55.0,2.94,54.0,1.71,46.0,64.0,1.3,72.0,170.0,73.0,Orthodox,1989.0,3.35,44.0,2.55,69.0,1.56,58.0,66.0,0.2
+
+Chad Mendes,Darren Elkins,Featherweight,KO/TKO,2013.0,SanJose,66.0,145.0,66.0,Orthodox,1985.0,2.78,49.0,2.35,67.0,4.13,55.0,100.0,0.3,70.0,145.0,71.0,Orthodox,1984.0,3.52,38.0,3.16,51.0,2.76,33.0,56.0,1.1
+
+Francis Carmont,Lorenz Larkin,Middleweight,U-DEC,2013.0,SanJose,75.0,205.0,78.0,Orthodox,1981.0,2.22,42.0,1.64,59.0,1.79,36.0,73.0,0.6,71.0,170.0,72.0,Orthodox,1986.0,3.53,46.0,2.74,63.0,0.27,42.0,79.0,0.1
+
+Myles Jury,Ramsey Nijem,Lightweight,KO/TKO,2013.0,SanJose,70.0,145.0,73.0,Orthodox,1988.0,2.94,42.0,2.16,66.0,2.16,55.0,50.0,0.3,71.0,155.0,75.0,Orthodox,1988.0,3.05,44.0,1.62,62.0,5.32,62.0,55.0,1.1
+
+Joseph Benavidez,Darren Uyenoyama,Flyweight,KO/TKO,2013.0,SanJose,64.0,125.0,65.0,Southpaw,1984.0,3.52,34.0,2.67,61.0,1.41,30.0,62.0,0.6,66.0,125.0,65.0,Orthodox,1979.0,1.34,39.0,2.21,66.0,1.42,33.0,35.0,0.7
+
+Jorge Masvidal,Tim Means,Lightweight,U-DEC,2013.0,SanJose,71.0,170.0,74.0,Orthodox,1984.0,4.11,48.0,3.06,64.0,1.44,59.0,74.0,0.3,74.0,170.0,75.0,Orthodox,1984.0,4.91,48.0,3.58,60.0,1.13,41.0,65.0,0.2
+
+TJ Dillashaw,Hugo Viana,Bantamweight,KO/TKO,2013.0,SanJose,66.0,135.0,67.0,Orthodox,1986.0,5.09,41.0,3.47,62.0,1.56,30.0,77.0,0.8,66.0,135.0,67.0,Orthodox,1982.0,3.05,38.0,3.2,57.0,0.22,6.0,50.0,0.0
+
+Anthony Njokuani,Roger Bowling,Lightweight,KO/TKO,2013.0,SanJose,73.0,155.0,75.0,Orthodox,1980.0,3.94,46.0,2.41,65.0,0.5,45.0,53.0,0.2,69.0,155.0,68.0,Orthodox,1982.0,3.9,47.0,3.86,51.0,3.09,43.0,27.0,0.9
+
+Yoel Romero,Clifford Starks,Middleweight,KO/TKO,2013.0,SanJose,72.0,185.0,73.0,Southpaw,1977.0,3.44,49.0,3.05,60.0,1.57,30.0,78.0,0.0,72.0,185.0,78.0,Orthodox,1981.0,1.94,33.0,2.49,58.0,1.94,100.0,60.0,0.0
+
+Urijah Faber,Scott Jorgensen,Bantamweight,SUB,2013.0,LasVegas,66.0,135.0,67.0,Orthodox,1979.0,2.65,40.0,2.59,64.0,1.54,30.0,58.0,0.8,65.0,135.0,66.0,Orthodox,1982.0,3.37,40.0,3.41,65.0,2.61,45.0,59.0,0.7
+
+Kelvin Gastelum,Uriah Hall,Middleweight,S-DEC,2013.0,LasVegas,69.0,185.0,71.0,Southpaw,1991.0,3.53,41.0,3.24,57.0,1.05,32.0,62.0,0.1,72.0,185.0,79.0,Orthodox,1984.0,3.23,48.0,3.85,54.0,0.54,38.0,64.0,0.1
+
+Cat Zingano,Miesha Tate,Women's Bantamweight,KO/TKO,2013.0,LasVegas,66.0,145.0,68.0,Southpaw,1982.0,2.57,61.0,1.63,47.0,2.77,65.0,42.0,0.8,66.0,125.0,65.0,Orthodox,1986.0,2.61,44.0,3.1,51.0,1.88,29.0,55.0,1.3
+
+Travis Browne,Gabriel Gonzaga,Heavyweight,KO/TKO,2013.0,LasVegas,78.0,255.0,79.0,Orthodox,1982.0,2.93,41.0,4.31,42.0,1.21,68.0,75.0,0.2,74.0,242.0,76.0,Orthodox,1979.0,2.12,45.0,2.94,57.0,2.8,39.0,66.0,1.1
+
+Robert McDaniel,Gilbert Smith,Middleweight,SUB,2013.0,LasVegas,75.0,185.0,75.0,Southpaw,1983.0,1.64,44.0,1.98,56.0,0.93,50.0,50.0,1.4,69.0,185.0,--,Southpaw,1981.0,1.09,41.0,2.73,35.0,3.51,60.0,0.0,1.2
+
+Josh Samman,Kevin Casey,Middleweight,KO/TKO,2013.0,LasVegas,75.0,185.0,79.0,Orthodox,1988.0,2.08,52.0,2.47,34.0,1.09,33.0,33.0,0.4,71.0,185.0,77.0,Southpaw,1981.0,2.27,53.0,3.76,46.0,0.79,22.0,27.0,0.4
+
+Luke Barnatt,Collin Hart,Middleweight,U-DEC,2013.0,LasVegas,78.0,185.0,77.0,Orthodox,1988.0,4.43,36.0,3.87,59.0,0.63,42.0,63.0,0.4,73.0,185.0,--,Orthodox,1989.0,6.33,44.0,7.53,51.0,2.0,16.0,50.0,0.0
+
+Dylan Andrews,Jimmy Quinlan,Middleweight,KO/TKO,2013.0,LasVegas,73.0,185.0,74.0,Switch,1979.0,2.21,50.0,2.72,46.0,2.83,50.0,57.0,0.4,72.0,185.0,--,Orthodox,1986.0,2.08,70.0,5.94,16.0,4.46,25.0,0.0,0.0
+
+Clint Hester,Bristol Marunde,Middleweight,KO/TKO,2013.0,LasVegas,74.0,205.0,77.0,Orthodox,1986.0,3.36,42.0,3.44,56.0,1.02,35.0,60.0,0.0,73.0,170.0,75.0,Orthodox,1982.0,1.42,21.0,4.4,47.0,1.6,33.0,14.0,0.0
+
+Cole Miller,Bart Palaszewski,Featherweight,SUB,2013.0,LasVegas,73.0,145.0,73.0,Orthodox,1984.0,3.0,33.0,3.88,59.0,0.6,36.0,38.0,1.8,69.0,145.0,70.0,Orthodox,1983.0,2.67,32.0,3.97,57.0,0.65,31.0,53.0,0.5
+
+Maximo Blanco,Sam Sicilia,Featherweight,U-DEC,2013.0,LasVegas,68.0,145.0,71.0,Orthodox,1983.0,4.11,44.0,3.19,66.0,1.85,36.0,63.0,0.3,68.0,145.0,67.0,Orthodox,1986.0,2.46,33.0,3.55,59.0,1.45,43.0,70.0,0.9
+
+Daniel Pineda,Justin Lawrence,Featherweight,SUB,2013.0,LasVegas,67.0,145.0,69.0,Orthodox,1985.0,3.35,48.0,2.97,45.0,1.42,22.0,42.0,1.6,68.0,145.0,67.0,Orthodox,1990.0,3.84,35.0,2.83,67.0,0.72,28.0,73.0,0.0
+
+Gegard Mousasi,Ilir Latifi,Light Heavyweight,U-DEC,2013.0,Stockholm,74.0,185.0,76.0,Orthodox,1985.0,3.75,50.0,1.21,68.0,1.59,60.0,59.0,1.1,70.0,230.0,73.0,Orthodox,1982.0,1.92,42.0,2.75,56.0,2.13,36.0,100.0,0.3
+
+Ross Pearson,Ryan Couture,Lightweight,KO/TKO,2013.0,Stockholm,68.0,155.0,69.0,Orthodox,1984.0,3.68,40.0,4.09,62.0,0.74,35.0,75.0,0.0,70.0,155.0,73.0,Orthodox,1982.0,3.54,45.0,2.87,54.0,1.55,29.0,46.0,1.3
+
+Matt Mitrione,Philip De Fries,Heavyweight,KO/TKO,2013.0,Stockholm,75.0,265.0,82.0,Switch,1978.0,3.55,50.0,2.79,64.0,0.0,0.0,55.0,0.7,77.0,250.0,79.0,Orthodox,1986.0,2.3,47.0,3.0,37.0,3.29,42.0,100.0,0.6
+
+Brad Pickett,Mike Easton,Bantamweight,S-DEC,2013.0,Stockholm,66.0,135.0,68.0,Orthodox,1978.0,3.02,31.0,4.63,55.0,2.47,44.0,58.0,0.4,66.0,135.0,70.0,Southpaw,1984.0,3.51,37.0,4.28,61.0,0.75,22.0,66.0,0.0
+
+Diego Brandao,Pablo Garza,Featherweight,SUB,2013.0,Stockholm,67.0,145.0,64.0,Orthodox,1987.0,2.94,47.0,3.38,62.0,3.21,68.0,80.0,0.6,73.0,145.0,73.0,Orthodox,1983.0,3.37,44.0,2.7,50.0,0.94,25.0,15.0,1.3
+
+Akira Corassani,Robert Peralta,Featherweight,U-DEC,2013.0,Stockholm,68.0,145.0,68.0,Orthodox,1982.0,3.25,45.0,4.91,50.0,0.7,28.0,86.0,0.0,68.0,145.0,71.0,Orthodox,1986.0,3.76,44.0,2.97,53.0,0.59,66.0,65.0,0.0
+
+Reza Madadi,Michael Johnson,Lightweight,SUB,2013.0,Stockholm,71.0,155.0,73.0,Orthodox,1978.0,2.51,46.0,3.31,66.0,3.17,33.0,89.0,0.5,70.0,155.0,73.0,Southpaw,1986.0,4.2,38.0,3.91,58.0,0.5,43.0,79.0,0.1
+
+Tor Troeng,Adam Cella,Middleweight,SUB,2013.0,Stockholm,74.0,185.0,--,Orthodox,1983.0,1.16,46.0,3.26,32.0,0.62,7.0,66.0,0.3,74.0,170.0,--,,1985.0,1.91,42.0,2.61,51.0,3.92,75.0,50.0,1.3
+
+Adlan Amagov,Chris Spang,Welterweight,U-DEC,2013.0,Stockholm,74.0,170.0,76.0,Orthodox,1986.0,3.29,47.0,0.82,78.0,5.84,56.0,100.0,0.0,74.0,170.0,--,Orthodox,1987.0,1.83,36.0,1.95,60.0,0.0,0.0,50.0,0.9
+
+Conor McGregor,Marcus Brimage,Featherweight,KO/TKO,2013.0,Stockholm,69.0,155.0,74.0,Southpaw,1988.0,5.32,49.0,4.66,54.0,0.67,55.0,66.0,0.1,64.0,135.0,71.0,Southpaw,1985.0,3.97,35.0,3.64,56.0,0.56,100.0,80.0,0.0
+
+Ryan LaFlare,Ben Alloway,Welterweight,U-DEC,2013.0,Stockholm,73.0,170.0,74.0,Southpaw,1983.0,2.89,40.0,1.86,63.0,2.13,44.0,58.0,0.2,71.0,170.0,76.0,Orthodox,1981.0,1.28,49.0,1.9,59.0,0.62,50.0,26.0,0.0
+
+Tom Lawlor,Michael Kuiper,Middleweight,SUB,2013.0,Stockholm,72.0,205.0,74.0,Southpaw,1983.0,2.5,42.0,2.41,60.0,2.46,32.0,57.0,1.4,72.0,185.0,73.0,Orthodox,1989.0,3.28,54.0,3.62,54.0,2.3,55.0,79.0,0.0
+
+Papy Abedi,Besam Yousef,Welterweight,S-DEC,2013.0,Stockholm,71.0,185.0,--,Southpaw,1978.0,2.8,55.0,3.15,48.0,3.47,57.0,50.0,1.3,71.0,170.0,--,Orthodox,1985.0,3.14,53.0,3.98,38.0,1.33,66.0,50.0,0.0
+
+Georges St-Pierre,Nick Diaz,Welterweight,U-DEC,2013.0,Montreal,71.0,185.0,76.0,Orthodox,1981.0,3.78,53.0,1.4,72.0,4.16,74.0,83.0,1.1,73.0,170.0,76.0,Southpaw,1983.0,5.71,42.0,3.84,59.0,1.28,32.0,60.0,1.0
+
+Johny Hendricks,Carlos Condit,Welterweight,U-DEC,2013.0,Montreal,69.0,185.0,69.0,Southpaw,1983.0,3.49,45.0,3.99,53.0,3.83,46.0,63.0,0.3,74.0,170.0,75.0,Orthodox,1984.0,3.66,39.0,2.67,55.0,0.59,46.0,38.0,1.0
+
+Jake Ellenberger,Nate Marquardt,Welterweight,KO/TKO,2013.0,Montreal,69.0,170.0,71.0,Orthodox,1985.0,2.47,39.0,2.83,60.0,2.04,47.0,86.0,0.4,72.0,185.0,74.0,Orthodox,1979.0,2.71,49.0,2.32,55.0,1.87,51.0,70.0,0.8
+
+Chris Camozzi,Nick Ring,Middleweight,S-DEC,2013.0,Montreal,74.0,185.0,75.0,Orthodox,1986.0,3.57,44.0,2.96,56.0,0.27,19.0,57.0,0.5,72.0,185.0,74.0,Southpaw,1979.0,3.52,42.0,3.48,62.0,1.36,36.0,52.0,0.3
+
+Mike Ricci,Colin Fletcher,Lightweight,U-DEC,2013.0,Montreal,72.0,155.0,76.0,Southpaw,1986.0,1.8,32.0,1.64,65.0,0.67,100.0,54.0,0.0,74.0,155.0,--,Orthodox,1983.0,3.1,34.0,2.97,62.0,0.0,0.0,27.0,0.0
+
+Patrick Cote,Bobby Voelker,Welterweight,U-DEC,2013.0,Montreal,71.0,170.0,75.0,Orthodox,1980.0,2.81,48.0,3.21,48.0,0.68,20.0,43.0,0.2,72.0,170.0,74.0,Orthodox,1979.0,4.01,35.0,5.84,42.0,1.04,50.0,66.0,0.0
+
+Darren Elkins,Antonio Carvalho,Featherweight,KO/TKO,2013.0,Montreal,70.0,145.0,71.0,Orthodox,1984.0,3.52,38.0,3.16,51.0,2.76,33.0,56.0,1.1,69.0,145.0,70.0,Orthodox,1979.0,3.03,29.0,3.62,64.0,0.0,0.0,100.0,0.0
+
+Jordan Mein,Dan Miller,Welterweight,KO/TKO,2013.0,Montreal,72.0,170.0,73.0,Orthodox,1989.0,3.35,44.0,2.55,69.0,1.56,58.0,66.0,0.2,73.0,185.0,74.0,Orthodox,1981.0,2.03,36.0,3.06,49.0,1.67,54.0,47.0,1.8
+
+John Makdessi,Daron Cruickshank,Lightweight,U-DEC,2013.0,Montreal,68.0,155.0,68.0,Orthodox,1985.0,5.52,50.0,4.04,69.0,0.0,0.0,85.0,0.0,68.0,155.0,72.0,Switch,1985.0,2.88,38.0,2.98,57.0,2.04,41.0,60.0,0.2
+
+Rick Story,Quinn Mulhern,Welterweight,KO/TKO,2013.0,Montreal,69.0,170.0,71.0,Southpaw,1984.0,3.8,41.0,2.17,62.0,2.53,48.0,63.0,0.9,75.0,155.0,--,Orthodox,1984.0,1.48,28.0,2.09,51.0,1.36,20.0,33.0,0.0
+
+TJ Dillashaw,Issei Tamura,Bantamweight,KO/TKO,2013.0,Montreal,66.0,135.0,67.0,Orthodox,1986.0,5.09,41.0,3.47,62.0,1.56,30.0,77.0,0.8,65.0,135.0,63.0,Orthodox,1984.0,1.89,53.0,4.58,44.0,0.92,25.0,33.0,0.0
+
+George Roop,Reuben Duran,Bantamweight,U-DEC,2013.0,Montreal,73.0,135.0,72.0,Orthodox,1981.0,3.43,34.0,2.47,60.0,1.05,57.0,59.0,0.1,67.0,135.0,71.0,Orthodox,1983.0,3.19,49.0,2.61,50.0,0.98,23.0,25.0,0.7
+
+Wanderlei Silva,Brian Stann,Light Heavyweight,KO/TKO,2013.0,Saitama,71.0,205.0,74.0,Orthodox,1976.0,2.79,40.0,2.19,60.0,0.97,53.0,62.0,0.6,73.0,205.0,74.0,Orthodox,1980.0,3.28,42.0,2.65,59.0,0.12,12.0,60.0,0.3
+
+Mark Hunt,Stefan Struve,Heavyweight,KO/TKO,2013.0,Saitama,70.0,265.0,72.0,Orthodox,1974.0,2.81,43.0,2.9,51.0,0.51,55.0,64.0,0.2,83.0,265.0,84.0,Orthodox,1988.0,3.12,47.0,4.04,46.0,0.56,46.0,55.0,1.7
+
+Diego Sanchez,Takanori Gomi,Lightweight,S-DEC,2013.0,Saitama,70.0,170.0,72.0,Southpaw,1981.0,2.69,37.0,3.02,56.0,1.51,24.0,46.0,0.8,67.0,155.0,70.0,Southpaw,1978.0,3.81,41.0,3.52,60.0,1.23,65.0,63.0,0.8
+
+Yushin Okami,Hector Lombard,Middleweight,S-DEC,2013.0,Saitama,74.0,170.0,75.0,Southpaw,1981.0,2.06,38.0,2.25,60.0,1.98,39.0,84.0,0.5,69.0,185.0,71.0,Southpaw,1978.0,3.02,46.0,3.35,53.0,1.69,48.0,77.0,0.5
+
+Rani Yahya,Mizuto Hirota,Featherweight,U-DEC,2013.0,Saitama,66.0,135.0,67.0,Orthodox,1984.0,1.58,38.0,1.76,50.0,2.9,33.0,24.0,1.9,67.0,155.0,67.0,Orthodox,1981.0,3.36,40.0,3.5,54.0,1.36,50.0,58.0,0.1
+
+Dong Hyun Kim,Siyar Bahadurzada,Welterweight,U-DEC,2013.0,Saitama,74.0,170.0,76.0,Southpaw,1981.0,2.12,49.0,1.89,58.0,2.93,43.0,71.0,0.6,71.0,170.0,73.0,Orthodox,1984.0,2.91,40.0,3.23,49.0,1.32,61.0,62.0,0.3
+
+Brad Tavares,Riki Fukuda,Middleweight,U-DEC,2013.0,Saitama,73.0,185.0,74.0,Orthodox,1987.0,3.3,43.0,3.01,56.0,0.86,26.0,80.0,0.0,72.0,185.0,73.0,Southpaw,1981.0,4.24,43.0,3.71,64.0,2.17,43.0,70.0,0.0
+
+Takeya Mizugaki,Bryan Caraway,Bantamweight,S-DEC,2013.0,Saitama,67.0,135.0,69.0,Orthodox,1983.0,3.37,37.0,3.27,57.0,1.46,57.0,70.0,0.1,68.0,135.0,68.0,Orthodox,1984.0,2.53,34.0,3.61,54.0,2.57,25.0,80.0,0.8
+
+Kazuki Tokudome,Cristiano Marcello,Lightweight,U-DEC,2013.0,Saitama,71.0,155.0,73.0,Southpaw,1987.0,2.26,41.0,3.63,53.0,2.0,38.0,78.0,0.0,69.0,155.0,72.0,Orthodox,1977.0,2.56,33.0,3.61,58.0,0.44,11.0,20.0,0.9
+
+Alex Caceres,Kyung Ho Kang,Bantamweight,Overturned,2013.0,Saitama,70.0,145.0,73.0,Southpaw,1988.0,4.15,51.0,2.92,64.0,0.58,70.0,64.0,0.8,69.0,135.0,73.0,Orthodox,1987.0,2.99,48.0,2.87,58.0,2.0,55.0,70.0,0.8
+
+Hyun Gyu Lim,Marcelo Guimaraes,Welterweight,KO/TKO,2013.0,Saitama,75.0,170.0,77.0,Orthodox,1985.0,4.45,41.0,5.07,51.0,0.23,100.0,73.0,0.2,72.0,185.0,73.0,Orthodox,1983.0,4.67,51.0,4.41,62.0,1.99,13.0,0.0,0.0
+
+Ronda Rousey,Liz Carmouche,Women's Bantamweight,SUB,2013.0,Anaheim,67.0,135.0,66.0,Orthodox,1987.0,4.17,52.0,4.14,44.0,6.26,68.0,50.0,4.8,66.0,125.0,66.0,Orthodox,1984.0,2.78,54.0,2.51,61.0,2.57,51.0,65.0,0.3
+
+Lyoto Machida,Dan Henderson,Light Heavyweight,S-DEC,2013.0,Anaheim,73.0,185.0,74.0,Southpaw,1978.0,2.59,53.0,1.57,61.0,1.21,65.0,75.0,0.4,71.0,185.0,74.0,Orthodox,1970.0,2.44,47.0,2.7,51.0,1.52,52.0,57.0,0.3
+
+Urijah Faber,Ivan Menjivar,Bantamweight,SUB,2013.0,Anaheim,66.0,135.0,67.0,Orthodox,1979.0,2.65,40.0,2.59,64.0,1.54,30.0,58.0,0.8,66.0,145.0,64.0,Orthodox,1982.0,2.78,37.0,2.76,65.0,0.56,28.0,38.0,1.0
+
+Court McGee,Josh Neer,Welterweight,U-DEC,2013.0,Anaheim,71.0,170.0,75.0,Orthodox,1984.0,4.68,37.0,3.69,60.0,1.86,25.0,69.0,0.5,71.0,170.0,72.0,Orthodox,1983.0,3.29,46.0,3.63,58.0,1.09,34.0,46.0,1.3
+
+Robbie Lawler,Josh Koscheck,Welterweight,KO/TKO,2013.0,Anaheim,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,70.0,170.0,73.0,Orthodox,1977.0,1.79,36.0,2.27,63.0,2.46,48.0,64.0,0.4
+
+Brendan Schaub,Lavar Johnson,Heavyweight,U-DEC,2013.0,Anaheim,76.0,245.0,78.0,Orthodox,1983.0,2.92,37.0,2.22,57.0,2.32,46.0,72.0,0.4,76.0,240.0,82.0,Orthodox,1977.0,5.39,55.0,2.54,55.0,0.61,66.0,54.0,0.6
+
+Michael Chiesa,Anton Kuivanen,Lightweight,SUB,2013.0,Anaheim,73.0,170.0,75.0,Southpaw,1987.0,1.88,41.0,1.67,54.0,3.39,54.0,60.0,1.0,68.0,155.0,72.0,Orthodox,1984.0,2.27,38.0,1.63,67.0,1.2,100.0,71.0,0.4
+
+Dennis Bermudez,Matt Grice,Featherweight,S-DEC,2013.0,Anaheim,66.0,155.0,66.0,Orthodox,1986.0,4.42,46.0,3.07,59.0,3.89,40.0,82.0,1.1,68.0,145.0,70.0,Orthodox,1981.0,4.09,53.0,2.69,56.0,2.19,37.0,82.0,0.5
+
+Sam Stout,Caros Fodor,Lightweight,S-DEC,2013.0,Anaheim,69.0,155.0,70.0,Orthodox,1984.0,4.17,28.0,4.08,57.0,0.63,38.0,77.0,0.1,69.0,155.0,74.0,Orthodox,1984.0,2.76,54.0,2.83,54.0,2.1,25.0,50.0,0.0
+
+Kenny Robertson,Brock Jardine,Welterweight,SUB,2013.0,Anaheim,70.0,170.0,74.0,Orthodox,1984.0,3.72,47.0,3.02,52.0,1.37,26.0,57.0,0.8,71.0,170.0,--,Orthodox,1985.0,1.06,30.0,3.34,56.0,0.0,0.0,14.0,0.8
+
+Neil Magny,Jon Manley,Welterweight,U-DEC,2013.0,Anaheim,75.0,170.0,80.0,Orthodox,1987.0,3.62,46.0,2.27,54.0,2.43,42.0,57.0,0.3,73.0,170.0,--,Orthodox,1986.0,1.13,20.0,4.33,45.0,1.0,7.0,20.0,0.0
+
+Nah-Shon Burrell,Yuri Villefort,Welterweight,U-DEC,2013.0,Anaheim,71.0,170.0,--,Orthodox,1990.0,4.83,47.0,3.45,56.0,0.0,0.0,52.0,0.3,72.0,170.0,73.0,Orthodox,1991.0,3.18,43.0,5.42,55.0,2.0,35.0,40.0,0.3

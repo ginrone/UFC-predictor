@@ -1,0 +1,391 @@
+Randy Couture,Vitor Belfort,Light Heavyweight,KO/TKO,2004.0,LasVegas,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,72.0,185.0,74.0,Southpaw,1977.0,1.59,46.0,2.83,50.0,1.02,60.0,53.0,0.6
+
+Joe Riggs,Joe Doerksen,Middleweight,KO/TKO,2004.0,LasVegas,72.0,185.0,70.0,Southpaw,1982.0,2.41,51.0,1.69,57.0,2.45,55.0,62.0,0.6,72.0,185.0,75.0,Orthodox,1977.0,1.43,42.0,2.79,50.0,2.02,33.0,33.0,2.3
+
+Chuck Liddell,Vernon White,Light Heavyweight,KO/TKO,2004.0,LasVegas,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,72.0,205.0,--,Southpaw,1971.0,2.11,38.0,2.2,54.0,0.88,28.0,44.0,0.0
+
+David Terrell,Matt Lindland,Middleweight,KO/TKO,2004.0,LasVegas,73.0,185.0,--,Southpaw,1978.0,2.34,63.0,2.71,37.0,5.54,50.0,0.0,5.5,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3
+
+Justin Eilers,Mike Kyle,Heavyweight,KO/TKO,2004.0,LasVegas,73.0,235.0,--,Orthodox,1978.0,2.86,43.0,5.66,49.0,0.82,25.0,50.0,0.0,76.0,205.0,77.0,Orthodox,1980.0,3.93,51.0,3.35,49.0,1.33,62.0,50.0,0.8
+
+Chris Lytle,Ronald Jhun,Welterweight,SUB,2004.0,LasVegas,71.0,170.0,68.0,Orthodox,1974.0,3.76,45.0,3.03,58.0,0.7,55.0,55.0,2.4,71.0,170.0,--,Orthodox,1970.0,1.45,57.0,3.01,50.0,1.81,100.0,100.0,0.0
+
+Karo Parisyan,Nick Diaz,Welterweight,S-DEC,2004.0,LasVegas,70.0,170.0,72.0,Orthodox,1982.0,2.49,41.0,2.19,58.0,5.27,59.0,59.0,1.0,73.0,170.0,76.0,Southpaw,1983.0,5.71,42.0,3.84,59.0,1.28,32.0,60.0,1.0
+
+Yves Edwards,Josh Thomson,Lightweight,KO/TKO,2004.0,LasVegas,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,70.0,155.0,71.0,Orthodox,1978.0,2.59,47.0,2.12,64.0,1.92,39.0,54.0,1.3
+
+Ken Shamrock,Kimo Leopoldo,Heavyweight,KO/TKO,2004.0,LasVegas,73.0,205.0,72.0,Orthodox,1964.0,1.47,46.0,4.3,39.0,0.94,60.0,44.0,2.5,75.0,235.0,--,Orthodox,1968.0,0.76,83.0,2.12,30.0,4.55,100.0,0.0,2.3
+
+Frank Trigg,Dennis Hallman,Welterweight,KO/TKO,2004.0,LasVegas,69.0,170.0,71.0,Southpaw,1972.0,2.79,46.0,1.9,56.0,2.35,47.0,75.0,0.8,69.0,155.0,72.0,Orthodox,1975.0,1.12,44.0,1.96,43.0,1.79,30.0,25.0,2.1
+
+Frank Mir,Tim Sylvia,Heavyweight,SUB,2004.0,LasVegas,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,80.0,265.0,80.0,Orthodox,1976.0,4.23,41.0,2.61,61.0,0.11,100.0,75.0,0.1
+
+Matt Hughes,Renato Verissimo,Welterweight,U-DEC,2004.0,LasVegas,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,73.0,170.0,--,Orthodox,1973.0,0.92,48.0,1.87,47.0,1.46,30.0,50.0,2.5
+
+Evan Tanner,Phil Baroni,Middleweight,U-DEC,2004.0,LasVegas,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5
+
+Matt Serra,Ivan Menjivar,Lightweight,U-DEC,2004.0,LasVegas,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9,66.0,145.0,64.0,Orthodox,1982.0,2.78,37.0,2.76,65.0,0.56,28.0,38.0,1.0
+
+Georges St-Pierre,Jay Hieron,Welterweight,KO/TKO,2004.0,LasVegas,71.0,185.0,76.0,Orthodox,1981.0,3.78,53.0,1.4,72.0,4.16,74.0,83.0,1.1,72.0,170.0,75.0,Orthodox,1976.0,1.66,32.0,1.89,61.0,4.05,60.0,66.0,1.0
+
+Trevor Prangley,Curtis Stout,Middleweight,SUB,2004.0,LasVegas,73.0,185.0,75.0,Orthodox,1972.0,2.59,60.0,2.02,48.0,3.38,55.0,74.0,1.0,73.0,185.0,--,Southpaw,1973.0,0.69,67.0,3.2,29.0,0.0,0.0,20.0,0.0
+
+Chuck Liddell,Tito Ortiz,Light Heavyweight,KO/TKO,2004.0,LasVegas,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6
+
+Chris Lytle,Tiki Ghosn,Welterweight,SUB,2004.0,LasVegas,71.0,170.0,68.0,Orthodox,1974.0,3.76,45.0,3.03,58.0,0.7,55.0,55.0,2.4,70.0,170.0,--,Orthodox,1977.0,2.78,46.0,2.94,58.0,0.41,50.0,61.0,0.0
+
+Yves Edwards,Hermes Franca,Lightweight,S-DEC,2004.0,LasVegas,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,66.0,155.0,71.0,Orthodox,1974.0,1.78,39.0,2.85,55.0,1.53,36.0,37.0,2.4
+
+Andrei Arlovski,Wesley Correira,Heavyweight,KO/TKO,2004.0,LasVegas,75.0,240.0,77.0,Orthodox,1979.0,3.79,45.0,3.2,57.0,0.4,36.0,76.0,0.2,75.0,260.0,--,Orthodox,1978.0,2.6,36.0,8.8,40.0,0.0,0.0,90.0,0.0
+
+Nick Diaz,Robbie Lawler,Welterweight,KO/TKO,2004.0,LasVegas,73.0,170.0,76.0,Southpaw,1983.0,5.71,42.0,3.84,59.0,1.28,32.0,60.0,1.0,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0
+
+Mike Kyle,Wes Sims,Heavyweight,KO/TKO,2004.0,LasVegas,76.0,205.0,77.0,Orthodox,1980.0,3.93,51.0,3.35,49.0,1.33,62.0,50.0,0.8,82.0,260.0,--,Orthodox,1979.0,0.98,51.0,2.95,37.0,0.0,0.0,40.0,2.3
+
+Jonathan Wiezorek,Wade Shipp,Heavyweight,KO/TKO,2004.0,LasVegas,75.0,250.0,--,Southpaw,1978.0,1.27,58.0,5.47,31.0,1.91,20.0,0.0,0.0,75.0,245.0,--,Orthodox,1975.0,4.29,86.0,2.14,0.0,0.0,0.0,75.0,0.0
+
+Genki Sudo,Mike Brown,Lightweight,SUB,2004.0,LasVegas,69.0,155.0,--,Orthodox,1978.0,1.55,39.0,2.23,33.0,3.58,60.0,50.0,4.2,66.0,145.0,70.0,Orthodox,1975.0,2.98,44.0,2.45,60.0,3.23,40.0,66.0,0.6
+
+Vitor Belfort,Randy Couture,Light Heavyweight,KO/TKO,2004.0,LasVegas,72.0,185.0,74.0,Southpaw,1977.0,1.59,46.0,2.83,50.0,1.02,60.0,53.0,0.6,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5
+
+Renato Verissimo,Carlos Newton,Welterweight,U-DEC,2004.0,LasVegas,73.0,170.0,--,Orthodox,1973.0,0.92,48.0,1.87,47.0,1.46,30.0,50.0,2.5,69.0,170.0,--,Orthodox,1976.0,0.65,41.0,1.55,44.0,2.47,70.0,43.0,0.9
+
+BJ Penn,Matt Hughes,Welterweight,SUB,2004.0,LasVegas,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2
+
+Frank Mir,Wes Sims,Heavyweight,KO/TKO,2004.0,LasVegas,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,82.0,260.0,--,Orthodox,1979.0,0.98,51.0,2.95,37.0,0.0,0.0,40.0,2.3
+
+Lee Murray,Jorge Rivera,Middleweight,SUB,2004.0,LasVegas,75.0,185.0,--,Orthodox,1977.0,0.36,15.0,3.28,32.0,0.9,100.0,42.0,1.8,73.0,185.0,73.0,Orthodox,1972.0,3.16,48.0,2.64,54.0,0.84,50.0,63.0,0.1
+
+Georges St-Pierre,Karo Parisyan,Welterweight,U-DEC,2004.0,LasVegas,71.0,185.0,76.0,Orthodox,1981.0,3.78,53.0,1.4,72.0,4.16,74.0,83.0,1.1,70.0,170.0,72.0,Orthodox,1982.0,2.49,41.0,2.19,58.0,5.27,59.0,59.0,1.0
+
+Josh Thomson,Hermes Franca,Lightweight,M-DEC,2004.0,LasVegas,70.0,155.0,71.0,Orthodox,1978.0,2.59,47.0,2.12,64.0,1.92,39.0,54.0,1.3,66.0,155.0,71.0,Orthodox,1974.0,1.78,39.0,2.85,55.0,1.53,36.0,37.0,2.4
+
+Matt Serra,Jeff Curran,Lightweight,U-DEC,2004.0,LasVegas,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9,66.0,135.0,69.0,Orthodox,1977.0,1.54,31.0,2.48,60.0,0.35,12.0,35.0,1.2
+
+Matt Hughes,Frank Trigg,Welterweight,SUB,2003.0,Uncasville,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,69.0,170.0,71.0,Southpaw,1972.0,2.79,46.0,1.9,56.0,2.35,47.0,75.0,0.8
+
+Matt Lindland,Falaniko Vitale,Middleweight,KO/TKO,2003.0,Uncasville,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,70.0,185.0,--,Orthodox,1974.0,1.88,49.0,3.68,47.0,0.72,33.0,86.0,0.0
+
+Wesley Correira,David Abbott,Heavyweight,KO/TKO,2003.0,Uncasville,75.0,260.0,--,Orthodox,1978.0,2.6,36.0,8.8,40.0,0.0,0.0,90.0,0.0,72.0,265.0,--,Switch,--,1.35,30.0,3.55,38.0,1.07,33.0,66.0,0.0
+
+Evan Tanner,Phil Baroni,Middleweight,KO/TKO,2003.0,Uncasville,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5
+
+Robbie Lawler,Chris Lytle,Welterweight,U-DEC,2003.0,Uncasville,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,71.0,170.0,68.0,Orthodox,1974.0,3.76,45.0,3.03,58.0,0.7,55.0,55.0,2.4
+
+Pedro Rizzo,Ricco Rodriguez,Heavyweight,U-DEC,2003.0,Uncasville,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0
+
+Keith Rockel,Chris Liguori,Middleweight,SUB,2003.0,Uncasville,72.0,185.0,--,Orthodox,--,1.13,73.0,0.21,66.0,4.63,75.0,100.0,4.6,69.0,185.0,--,Orthodox,--,0.29,33.0,1.44,0.0,0.0,0.0,50.0,0.0
+
+Yves Edwards,Nick Agallar,Lightweight,KO/TKO,2003.0,Uncasville,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,68.0,155.0,--,Orthodox,1979.0,0.69,11.0,4.56,42.0,0.0,0.0,0.0,0.0
+
+Randy Couture,Tito Ortiz,Light Heavyweight,U-DEC,2003.0,LasVegas,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6
+
+Andrei Arlovski,Vladimir Matyushenko,Heavyweight,KO/TKO,2003.0,LasVegas,75.0,240.0,77.0,Orthodox,1979.0,3.79,45.0,3.2,57.0,0.4,36.0,76.0,0.2,72.0,205.0,74.0,Orthodox,1971.0,1.9,44.0,1.62,59.0,3.25,46.0,70.0,0.1
+
+Tim Sylvia,Gan McGee,Heavyweight,KO/TKO,2003.0,LasVegas,80.0,265.0,80.0,Orthodox,1976.0,4.23,41.0,2.61,61.0,0.11,100.0,75.0,0.1,82.0,265.0,--,Orthodox,1976.0,2.2,29.0,2.31,59.0,0.65,25.0,83.0,0.0
+
+Jorge Rivera,David Loiseau,Middleweight,U-DEC,2003.0,LasVegas,73.0,185.0,73.0,Orthodox,1972.0,3.16,48.0,2.64,54.0,0.84,50.0,63.0,0.1,72.0,185.0,76.0,Orthodox,1979.0,1.59,44.0,3.64,43.0,0.43,42.0,36.0,0.1
+
+Rich Franklin,Edwin DeWees,Light Heavyweight,KO/TKO,2003.0,LasVegas,73.0,185.0,76.0,Southpaw,1974.0,4.1,44.0,2.07,62.0,1.31,66.0,63.0,0.7,73.0,185.0,--,Orthodox,1982.0,1.53,33.0,6.19,39.0,2.18,66.0,0.0,3.3
+
+Karo Parisyan,Dave Strasser,Welterweight,SUB,2003.0,LasVegas,70.0,170.0,72.0,Orthodox,1982.0,2.49,41.0,2.19,58.0,5.27,59.0,59.0,1.0,70.0,170.0,--,Orthodox,1969.0,3.04,45.0,1.88,59.0,0.72,33.0,33.0,0.0
+
+Josh Thomson,Gerald Strebendt,Lightweight,KO/TKO,2003.0,LasVegas,70.0,155.0,71.0,Orthodox,1978.0,2.59,47.0,2.12,64.0,1.92,39.0,54.0,1.3,69.0,155.0,--,Orthodox,1979.0,0.0,0.0,4.0,38.0,0.0,0.0,0.0,16.4
+
+Nick Diaz,Jeremy Jackson,Welterweight,SUB,2003.0,LasVegas,73.0,170.0,76.0,Southpaw,1983.0,5.71,42.0,3.84,59.0,1.28,32.0,60.0,1.0,70.0,170.0,--,Orthodox,1982.0,0.71,27.0,2.03,25.0,1.52,40.0,58.0,0.0
+
+Hermes Franca,Caol Uno,Lightweight,KO/TKO,2003.0,LasVegas,66.0,155.0,71.0,Orthodox,1974.0,1.78,39.0,2.85,55.0,1.53,36.0,37.0,2.4,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5
+
+Randy Couture,Chuck Liddell,Light Heavyweight,KO/TKO,2003.0,LasVegas,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0
+
+Kimo Leopoldo,David Abbott,Heavyweight,SUB,2003.0,LasVegas,75.0,235.0,--,Orthodox,1968.0,0.76,83.0,2.12,30.0,4.55,100.0,0.0,2.3,72.0,265.0,--,Switch,--,1.35,30.0,3.55,38.0,1.07,33.0,66.0,0.0
+
+Vitor Belfort,Marvin Eastman,Light Heavyweight,KO/TKO,2003.0,LasVegas,72.0,185.0,74.0,Southpaw,1977.0,1.59,46.0,2.83,50.0,1.02,60.0,53.0,0.6,69.0,185.0,73.0,Orthodox,1971.0,2.21,35.0,3.92,42.0,1.38,33.0,81.0,0.0
+
+Vernon White,Ian Freeman,Heavyweight,S-DEC,2003.0,LasVegas,72.0,205.0,--,Southpaw,1971.0,2.11,38.0,2.2,54.0,0.88,28.0,44.0,0.0,71.0,225.0,--,Orthodox,1966.0,2.54,48.0,3.11,44.0,1.44,40.0,80.0,0.7
+
+Frank Mir,Wes Sims,Heavyweight,DQ,2003.0,LasVegas,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,82.0,260.0,--,Orthodox,1979.0,0.98,51.0,2.95,37.0,0.0,0.0,40.0,2.3
+
+Yves Edwards,Eddie Ruiz,Lightweight,U-DEC,2003.0,LasVegas,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,67.0,155.0,--,Orthodox,1967.0,0.2,25.0,1.4,47.0,2.0,12.0,0.0,0.0
+
+Falaniko Vitale,Matt Lindland,Middleweight,KO/TKO,2003.0,LasVegas,70.0,185.0,--,Orthodox,1974.0,1.88,49.0,3.68,47.0,0.72,33.0,86.0,0.0,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3
+
+Pedro Rizzo,Tra Telligman,Heavyweight,KO/TKO,2003.0,LasVegas,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0,74.0,233.0,--,Orthodox,1965.0,1.83,35.0,3.02,56.0,0.87,100.0,80.0,0.0
+
+Matt Hughes,Sean Sherk,Welterweight,U-DEC,2003.0,Miami,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,66.0,155.0,67.0,Orthodox,1973.0,2.17,35.0,2.71,55.0,4.09,46.0,56.0,0.4
+
+Pete Spratt,Robbie Lawler,Welterweight,SUB,2003.0,Miami,69.0,170.0,--,Orthodox,1971.0,1.63,48.0,1.33,55.0,0.3,100.0,46.0,0.3,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0
+
+Dave Strasser,Romie Aram,Welterweight,U-DEC,2003.0,Miami,70.0,170.0,--,Orthodox,1969.0,3.04,45.0,1.88,59.0,0.72,33.0,33.0,0.0,70.0,170.0,--,Orthodox,1977.0,1.8,35.0,2.83,50.0,2.5,62.0,83.0,0.0
+
+Wesley Correira,Sean Alvarez,Heavyweight,KO/TKO,2003.0,Miami,75.0,260.0,--,Orthodox,1978.0,2.6,36.0,8.8,40.0,0.0,0.0,90.0,0.0,72.0,235.0,--,Orthodox,1971.0,0.89,37.0,3.25,47.0,0.0,0.0,0.0,0.0
+
+Rich Franklin,Evan Tanner,Light Heavyweight,KO/TKO,2003.0,Miami,73.0,185.0,76.0,Southpaw,1974.0,4.1,44.0,2.07,62.0,1.31,66.0,63.0,0.7,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3
+
+Duane Ludwig,Genki Sudo,Lightweight,U-DEC,2003.0,Miami,70.0,170.0,70.0,Orthodox,1978.0,4.62,44.0,3.05,57.0,0.43,25.0,59.0,0.1,69.0,155.0,--,Orthodox,1978.0,1.55,39.0,2.23,33.0,3.58,60.0,50.0,4.2
+
+Hermes Franca,Richard Crunkilton,Lightweight,U-DEC,2003.0,Miami,66.0,155.0,71.0,Orthodox,1974.0,1.78,39.0,2.85,55.0,1.53,36.0,37.0,2.4,67.0,155.0,--,Orthodox,1979.0,1.72,41.0,1.45,58.0,4.08,61.0,65.0,1.3
+
+David Loiseau,Mark Weir,Middleweight,KO/TKO,2003.0,Miami,72.0,185.0,76.0,Orthodox,1979.0,1.59,44.0,3.64,43.0,0.43,42.0,36.0,0.1,74.0,185.0,--,Southpaw,1967.0,1.54,56.0,2.5,38.0,0.8,50.0,25.0,2.4
+
+Tim Sylvia,Ricco Rodriguez,Heavyweight,KO/TKO,2003.0,AtlanticCity,80.0,265.0,80.0,Orthodox,1976.0,4.23,41.0,2.61,61.0,0.11,100.0,75.0,0.1,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0
+
+Frank Mir,David Abbott,Heavyweight,SUB,2003.0,AtlanticCity,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,72.0,265.0,--,Switch,--,1.35,30.0,3.55,38.0,1.07,33.0,66.0,0.0
+
+BJ Penn,Caol Uno,Lightweight,S-DEC,2003.0,AtlanticCity,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5
+
+Matt Lindland,Phil Baroni,Middleweight,U-DEC,2003.0,AtlanticCity,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5
+
+Vladimir Matyushenko,Pedro Rizzo,Heavyweight,U-DEC,2003.0,AtlanticCity,72.0,205.0,74.0,Orthodox,1971.0,1.9,44.0,1.62,59.0,3.25,46.0,70.0,0.1,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0
+
+Din Thomas,Matt Serra,Lightweight,S-DEC,2003.0,AtlanticCity,69.0,155.0,--,Orthodox,1976.0,1.85,37.0,2.6,59.0,1.38,52.0,76.0,1.2,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9
+
+Gan McGee,Alexandre Dantas,Heavyweight,KO/TKO,2003.0,AtlanticCity,82.0,265.0,--,Orthodox,1976.0,2.2,29.0,2.31,59.0,0.65,25.0,83.0,0.0,74.0,238.0,--,Orthodox,1979.0,0.21,25.0,1.87,60.0,0.0,0.0,0.0,3.1
+
+Yves Edwards,Rich Clementi,Lightweight,SUB,2003.0,AtlanticCity,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,69.0,155.0,72.0,Southpaw,1976.0,1.43,37.0,2.29,60.0,1.72,42.0,25.0,1.1
+
+Tito Ortiz,Ken Shamrock,Light Heavyweight,KO/TKO,2002.0,LasVegas,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6,73.0,205.0,72.0,Orthodox,1964.0,1.47,46.0,4.3,39.0,0.94,60.0,44.0,2.5
+
+Chuck Liddell,Renato Sobral,Light Heavyweight,KO/TKO,2002.0,LasVegas,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,73.0,205.0,75.0,Orthodox,1975.0,2.23,45.0,1.53,57.0,2.48,42.0,65.0,2.6
+
+Matt Hughes,Gil Castillo,Welterweight,KO/TKO,2002.0,LasVegas,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,69.0,170.0,--,Southpaw,1965.0,0.6,45.0,2.22,44.0,3.33,45.0,50.0,0.0
+
+Carlos Newton,Pete Spratt,Welterweight,SUB,2002.0,LasVegas,69.0,170.0,--,Orthodox,1976.0,0.65,41.0,1.55,44.0,2.47,70.0,43.0,0.9,69.0,170.0,--,Orthodox,1971.0,1.63,48.0,1.33,55.0,0.3,100.0,46.0,0.3
+
+Robbie Lawler,Tiki Ghosn,Welterweight,KO/TKO,2002.0,LasVegas,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,70.0,170.0,--,Orthodox,1977.0,2.78,46.0,2.94,58.0,0.41,50.0,61.0,0.0
+
+Andrei Arlovski,Ian Freeman,Heavyweight,KO/TKO,2002.0,LasVegas,75.0,240.0,77.0,Orthodox,1979.0,3.79,45.0,3.2,57.0,0.4,36.0,76.0,0.2,71.0,225.0,--,Orthodox,1966.0,2.54,48.0,3.11,44.0,1.44,40.0,80.0,0.7
+
+Vladimir Matyushenko,Travis Wiuff,Heavyweight,KO/TKO,2002.0,LasVegas,72.0,205.0,74.0,Orthodox,1971.0,1.9,44.0,1.62,59.0,3.25,46.0,70.0,0.1,75.0,205.0,--,Orthodox,1978.0,0.48,30.0,4.03,41.0,4.84,57.0,44.0,1.2
+
+Phillip Miller,Mark Weir,Middleweight,SUB,2002.0,LasVegas,71.0,185.0,--,Orthodox,1979.0,1.61,54.0,1.93,50.0,3.62,25.0,100.0,0.6,74.0,185.0,--,Southpaw,1967.0,1.54,56.0,2.5,38.0,0.8,50.0,25.0,2.4
+
+Ricco Rodriguez,Randy Couture,Heavyweight,KO/TKO,2002.0,Uncasville,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5
+
+Tim Sylvia,Wesley Correira,Heavyweight,KO/TKO,2002.0,Uncasville,80.0,265.0,80.0,Orthodox,1976.0,4.23,41.0,2.61,61.0,0.11,100.0,75.0,0.1,75.0,260.0,--,Orthodox,1978.0,2.6,36.0,8.8,40.0,0.0,0.0,90.0,0.0
+
+BJ Penn,Matt Serra,Lightweight,U-DEC,2002.0,Uncasville,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9
+
+Caol Uno,Din Thomas,Lightweight,U-DEC,2002.0,Uncasville,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5,69.0,155.0,--,Orthodox,1976.0,1.85,37.0,2.6,59.0,1.38,52.0,76.0,1.2
+
+Gan McGee,Pedro Rizzo,Heavyweight,KO/TKO,2002.0,Uncasville,82.0,265.0,--,Orthodox,1976.0,2.2,29.0,2.31,59.0,0.65,25.0,83.0,0.0,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0
+
+Phil Baroni,Dave Menne,Middleweight,KO/TKO,2002.0,Uncasville,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5,70.0,170.0,--,Orthodox,1974.0,1.84,44.0,1.99,42.0,0.46,50.0,57.0,2.5
+
+Matt Lindland,Ivan Salaverry,Middleweight,U-DEC,2002.0,Uncasville,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,72.0,185.0,--,Orthodox,1971.0,3.01,47.0,1.19,76.0,0.49,18.0,36.0,2.5
+
+Sean Sherk,Benji Radach,Welterweight,KO/TKO,2002.0,Uncasville,66.0,155.0,67.0,Orthodox,1973.0,2.17,35.0,2.71,55.0,4.09,46.0,56.0,0.4,70.0,185.0,--,Orthodox,1979.0,2.62,49.0,2.31,51.0,1.06,41.0,71.0,0.4
+
+Matt Hughes,Carlos Newton,Welterweight,KO/TKO,2002.0,London,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,69.0,170.0,--,Orthodox,1976.0,0.65,41.0,1.55,44.0,2.47,70.0,43.0,0.9
+
+Ian Freeman,Frank Mir,Heavyweight,KO/TKO,2002.0,London,71.0,225.0,--,Orthodox,1966.0,2.54,48.0,3.11,44.0,1.44,40.0,80.0,0.7,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0
+
+Mark Weir,Eugene Jackson,Middleweight,KO/TKO,2002.0,London,74.0,185.0,--,Southpaw,1967.0,1.54,56.0,2.5,38.0,0.8,50.0,25.0,2.4,68.0,185.0,--,Orthodox,1966.0,2.19,33.0,3.44,32.0,1.91,71.0,16.0,2.3
+
+Genki Sudo,Leigh Remedios,Lightweight,SUB,2002.0,London,69.0,155.0,--,Orthodox,1978.0,1.55,39.0,2.23,33.0,3.58,60.0,50.0,4.2,67.0,155.0,--,Orthodox,1976.0,0.75,41.0,1.36,68.0,0.0,0.0,33.0,0.0
+
+Phillip Miller,James Zikic,Light Heavyweight,U-DEC,2002.0,London,71.0,185.0,--,Orthodox,1979.0,1.61,54.0,1.93,50.0,3.62,25.0,100.0,0.6,74.0,205.0,--,Orthodox,1977.0,1.47,35.0,1.6,44.0,0.5,25.0,74.0,0.5
+
+Renato Sobral,Elvis Sinosic,Light Heavyweight,U-DEC,2002.0,London,73.0,205.0,75.0,Orthodox,1975.0,2.23,45.0,1.53,57.0,2.48,42.0,65.0,2.6,75.0,205.0,77.0,Orthodox,1971.0,1.13,37.0,4.6,53.0,0.0,0.0,0.0,1.2
+
+Evan Tanner,Chris Haseman,Light Heavyweight,U-DEC,2002.0,London,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3,71.0,205.0,--,Orthodox,1969.0,0.93,70.0,4.67,28.0,0.0,0.0,40.0,2.0
+
+Chuck Liddell,Vitor Belfort,Light Heavyweight,U-DEC,2002.0,LasVegas,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,72.0,185.0,74.0,Southpaw,1977.0,1.59,46.0,2.83,50.0,1.02,60.0,53.0,0.6
+
+Benji Radach,Nick Serra,Welterweight,U-DEC,2002.0,LasVegas,70.0,185.0,--,Orthodox,1979.0,2.62,49.0,2.31,51.0,1.06,41.0,71.0,0.4,69.0,170.0,--,Orthodox,1978.0,0.0,0.0,1.73,43.0,1.0,10.0,0.0,2.0
+
+Pete Spratt,Zach Light,Welterweight,SUB,2002.0,LasVegas,69.0,170.0,--,Orthodox,1971.0,1.63,48.0,1.33,55.0,0.3,100.0,46.0,0.3,68.0,170.0,--,Orthodox,1974.0,0.81,33.0,1.9,48.0,1.36,100.0,0.0,0.0
+
+Robbie Lawler,Steve Berger,Welterweight,KO/TKO,2002.0,LasVegas,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,71.0,170.0,--,Orthodox,1973.0,1.0,27.0,3.26,36.0,0.84,40.0,16.0,1.7
+
+Tony Fryklund,Rodrigo Ruas,Middleweight,KO/TKO,2002.0,LasVegas,72.0,185.0,--,Orthodox,1971.0,3.49,39.0,6.5,43.0,0.0,0.0,66.0,0.5,70.0,185.0,--,Orthodox,1977.0,1.28,35.0,7.0,41.0,0.0,0.0,0.0,0.0
+
+Yves Edwards,Joao Pierini,Lightweight,KO/TKO,2002.0,LasVegas,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7,73.0,155.0,--,Switch,1971.0,0.76,14.0,4.56,33.0,0.0,0.0,0.0,0.0
+
+Murilo Bustamante,Matt Lindland,Middleweight,SUB,2002.0,BossierCity,74.0,183.0,--,Orthodox,1966.0,1.33,32.0,1.9,60.0,2.46,33.0,54.0,1.2,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3
+
+Ricco Rodriguez,Tsuyoshi Kohsaka,Heavyweight,KO/TKO,2002.0,BossierCity,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0,71.0,225.0,--,Orthodox,1970.0,1.88,38.0,4.41,54.0,1.32,20.0,33.0,0.4
+
+BJ Penn,Paul Creighton,Lightweight,KO/TKO,2002.0,BossierCity,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,66.0,155.0,--,Southpaw,1970.0,0.72,75.0,4.65,30.0,5.37,37.0,0.0,0.0
+
+Phil Baroni,Amar Suloev,Middleweight,KO/TKO,2002.0,BossierCity,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5,69.0,183.0,--,Orthodox,1976.0,1.98,37.0,2.19,70.0,0.27,100.0,88.0,0.3
+
+Caol Uno,Yves Edwards,Lightweight,U-DEC,2002.0,BossierCity,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7
+
+Ivan Salaverry,Andrei Semenov,Middleweight,KO/TKO,2002.0,BossierCity,72.0,185.0,--,Orthodox,1971.0,3.01,47.0,1.19,76.0,0.49,18.0,36.0,2.5,72.0,185.0,--,Orthodox,1977.0,0.78,15.0,2.44,60.0,1.74,80.0,55.0,0.4
+
+Benji Radach,Steve Berger,Welterweight,Overturned,2002.0,BossierCity,70.0,185.0,--,Orthodox,1979.0,2.62,49.0,2.31,51.0,1.06,41.0,71.0,0.4,71.0,170.0,--,Orthodox,1973.0,1.0,27.0,3.26,36.0,0.84,40.0,16.0,1.7
+
+Robbie Lawler,Aaron Riley,Welterweight,U-DEC,2002.0,BossierCity,71.0,170.0,74.0,Southpaw,1982.0,3.83,46.0,4.67,59.0,0.65,64.0,65.0,0.0,68.0,155.0,69.0,Southpaw,1980.0,3.45,34.0,3.78,61.0,1.18,34.0,60.0,0.1
+
+Josh Barnett,Randy Couture,Heavyweight,KO/TKO,2002.0,LasVegas,75.0,250.0,78.0,Orthodox,1977.0,3.2,50.0,2.11,57.0,1.26,55.0,55.0,1.4,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5
+
+Pedro Rizzo,Andrei Arlovski,Heavyweight,KO/TKO,2002.0,LasVegas,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0,75.0,240.0,77.0,Orthodox,1979.0,3.79,45.0,3.2,57.0,0.4,36.0,76.0,0.2
+
+Matt Hughes,Hayato Sakurai,Welterweight,KO/TKO,2002.0,LasVegas,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,67.0,168.0,--,Orthodox,1975.0,2.45,49.0,1.94,59.0,1.87,69.0,56.0,0.3
+
+Matt Lindland,Pat Miletich,Middleweight,KO/TKO,2002.0,LasVegas,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,70.0,170.0,--,Orthodox,1968.0,1.79,45.0,1.66,63.0,1.96,100.0,54.0,1.0
+
+Evan Tanner,Elvis Sinosic,Light Heavyweight,KO/TKO,2002.0,LasVegas,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3,75.0,205.0,77.0,Orthodox,1971.0,1.13,37.0,4.6,53.0,0.0,0.0,0.0,1.2
+
+Frank Mir,Pete Williams,Heavyweight,SUB,2002.0,LasVegas,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,75.0,235.0,--,Orthodox,1975.0,0.61,62.0,2.77,40.0,1.84,40.0,16.0,0.9
+
+Matt Serra,Kelly Dullanty,Lightweight,SUB,2002.0,LasVegas,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9,68.0,155.0,--,Orthodox,1977.0,0.0,0.0,0.67,75.0,0.0,0.0,66.0,0.0
+
+Sean Sherk,Jutaro Nakao,Welterweight,U-DEC,2002.0,LasVegas,66.0,155.0,67.0,Orthodox,1973.0,2.17,35.0,2.71,55.0,4.09,46.0,56.0,0.4,69.0,170.0,--,Southpaw,1970.0,0.53,38.0,1.06,44.0,0.38,50.0,56.0,0.0
+
+Jens Pulver,BJ Penn,Lightweight,M-DEC,2002.0,Uncasville,67.0,145.0,70.0,Southpaw,1974.0,2.12,37.0,3.13,56.0,0.22,33.0,63.0,0.3,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5
+
+Ricco Rodriguez,Jeff Monson,Heavyweight,KO/TKO,2002.0,Uncasville,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0,69.0,247.0,74.0,Orthodox,1971.0,0.97,30.0,2.87,59.0,1.06,12.0,66.0,0.7
+
+Murilo Bustamante,Dave Menne,Middleweight,KO/TKO,2002.0,Uncasville,74.0,183.0,--,Orthodox,1966.0,1.33,32.0,1.9,60.0,2.46,33.0,54.0,1.2,70.0,170.0,--,Orthodox,1974.0,1.84,44.0,1.99,42.0,0.46,50.0,57.0,2.5
+
+Chuck Liddell,Amar Suloev,Light Heavyweight,U-DEC,2002.0,Uncasville,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,69.0,183.0,--,Orthodox,1976.0,1.98,37.0,2.19,70.0,0.27,100.0,88.0,0.3
+
+Andrei Semenov,Ricardo Almeida,Middleweight,KO/TKO,2002.0,Uncasville,72.0,185.0,--,Orthodox,1977.0,0.78,15.0,2.44,60.0,1.74,80.0,55.0,0.4,72.0,170.0,74.0,Orthodox,1976.0,2.02,49.0,1.2,61.0,3.74,38.0,31.0,1.2
+
+Kevin Randleman,Renato Sobral,Light Heavyweight,U-DEC,2002.0,Uncasville,70.0,205.0,--,Orthodox,1971.0,1.26,54.0,1.12,57.0,2.0,56.0,30.0,0.8,73.0,205.0,75.0,Orthodox,1975.0,2.23,45.0,1.53,57.0,2.48,42.0,65.0,2.6
+
+Gil Castillo,Chris Brennan,Welterweight,U-DEC,2002.0,Uncasville,69.0,170.0,--,Southpaw,1965.0,0.6,45.0,2.22,44.0,3.33,45.0,50.0,0.0,68.0,170.0,--,Orthodox,1971.0,0.6,40.0,0.97,50.0,0.0,0.0,25.0,2.1
+
+Eugene Jackson,Keith Rockel,Middleweight,SUB,2002.0,Uncasville,68.0,185.0,--,Orthodox,1966.0,2.19,33.0,3.44,32.0,1.91,71.0,16.0,2.3,72.0,185.0,--,Orthodox,--,1.13,73.0,0.21,66.0,4.63,75.0,100.0,4.6
+
+Randy Couture,Pedro Rizzo,Heavyweight,KO/TKO,2001.0,LasVegas,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0
+
+Ricco Rodriguez,Pete Williams,Heavyweight,KO/TKO,2001.0,LasVegas,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0,75.0,235.0,--,Orthodox,1975.0,0.61,62.0,2.77,40.0,1.84,40.0,16.0,0.9
+
+Matt Hughes,Carlos Newton,Welterweight,KO/TKO,2001.0,LasVegas,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,69.0,170.0,--,Orthodox,1976.0,0.65,41.0,1.55,44.0,2.47,70.0,43.0,0.9
+
+BJ Penn,Caol Uno,Lightweight,KO/TKO,2001.0,LasVegas,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5
+
+Josh Barnett,Bobby Hoffman,Heavyweight,KO/TKO,2001.0,LasVegas,75.0,250.0,78.0,Orthodox,1977.0,3.2,50.0,2.11,57.0,1.26,55.0,55.0,1.4,74.0,245.0,--,Orthodox,1968.0,2.02,70.0,1.32,19.0,1.17,50.0,0.0,1.2
+
+Evan Tanner,Homer Moore,Light Heavyweight,SUB,2001.0,LasVegas,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3,70.0,205.0,--,Orthodox,1971.0,0.68,50.0,0.68,0.0,5.07,66.0,0.0,0.0
+
+Matt Lindland,Phil Baroni,Middleweight,M-DEC,2001.0,LasVegas,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5
+
+Frank Mir,Roberto Traven,Heavyweight,SUB,2001.0,LasVegas,75.0,264.0,79.0,Southpaw,1979.0,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,75.0,227.0,--,Orthodox,1968.0,0.92,50.0,2.77,57.0,0.0,0.0,0.0,0.0
+
+Tito Ortiz,Vladimir Matyushenko,Light Heavyweight,U-DEC,2001.0,LasVegas,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6,72.0,205.0,74.0,Orthodox,1971.0,1.9,44.0,1.62,59.0,3.25,46.0,70.0,0.1
+
+Jens Pulver,Dennis Hallman,Lightweight,U-DEC,2001.0,LasVegas,67.0,145.0,70.0,Southpaw,1974.0,2.12,37.0,3.13,56.0,0.22,33.0,63.0,0.3,69.0,155.0,72.0,Orthodox,1975.0,1.12,44.0,1.96,43.0,1.79,30.0,25.0,2.1
+
+Chuck Liddell,Murilo Bustamante,Light Heavyweight,U-DEC,2001.0,LasVegas,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,74.0,183.0,--,Orthodox,1966.0,1.33,32.0,1.9,60.0,2.46,33.0,54.0,1.2
+
+Matt Serra,Yves Edwards,Welterweight,M-DEC,2001.0,LasVegas,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9,69.0,155.0,73.0,Southpaw,1976.0,2.91,42.0,2.34,66.0,0.76,53.0,69.0,0.7
+
+Dave Menne,Gil Castillo,Middleweight,U-DEC,2001.0,LasVegas,70.0,170.0,--,Orthodox,1974.0,1.84,44.0,1.99,42.0,0.46,50.0,57.0,2.5,69.0,170.0,--,Southpaw,1965.0,0.6,45.0,2.22,44.0,3.33,45.0,50.0,0.0
+
+Jutaro Nakao,Tony DeSouza,Welterweight,KO/TKO,2001.0,LasVegas,69.0,170.0,--,Southpaw,1970.0,0.53,38.0,1.06,44.0,0.38,50.0,56.0,0.0,72.0,170.0,70.0,Southpaw,1974.0,1.12,52.0,1.57,41.0,2.25,42.0,40.0,1.5
+
+Ricardo Almeida,Eugene Jackson,Middleweight,SUB,2001.0,LasVegas,72.0,170.0,74.0,Orthodox,1976.0,2.02,49.0,1.2,61.0,3.74,38.0,31.0,1.2,68.0,185.0,--,Orthodox,1966.0,2.19,33.0,3.44,32.0,1.91,71.0,16.0,2.3
+
+Din Thomas,Fabiano Iha,Lightweight,U-DEC,2001.0,LasVegas,69.0,155.0,--,Orthodox,1976.0,1.85,37.0,2.6,59.0,1.38,52.0,76.0,1.2,68.0,155.0,--,Orthodox,1970.0,1.73,47.0,2.49,42.0,2.88,40.0,50.0,2.9
+
+Tito Ortiz,Elvis Sinosic,Light Heavyweight,KO/TKO,2001.0,EastRutherford,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6,75.0,205.0,77.0,Orthodox,1971.0,1.13,37.0,4.6,53.0,0.0,0.0,0.0,1.2
+
+BJ Penn,Din Thomas,Lightweight,KO/TKO,2001.0,EastRutherford,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,69.0,155.0,--,Orthodox,1976.0,1.85,37.0,2.6,59.0,1.38,52.0,76.0,1.2
+
+Josh Barnett,Semmy Schilt,Heavyweight,SUB,2001.0,EastRutherford,75.0,250.0,78.0,Orthodox,1977.0,3.2,50.0,2.11,57.0,1.26,55.0,55.0,1.4,82.0,265.0,--,Orthodox,1973.0,1.2,50.0,1.31,53.0,0.0,0.0,47.0,1.1
+
+Pat Miletich,Shonie Carter,Welterweight,KO/TKO,2001.0,EastRutherford,70.0,170.0,--,Orthodox,1968.0,1.79,45.0,1.66,63.0,1.96,100.0,54.0,1.0,70.0,170.0,--,Southpaw,1972.0,1.62,36.0,2.32,47.0,0.75,66.0,75.0,0.0
+
+Caol Uno,Fabiano Iha,Lightweight,KO/TKO,2001.0,EastRutherford,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5,68.0,155.0,--,Orthodox,1970.0,1.73,47.0,2.49,42.0,2.88,40.0,50.0,2.9
+
+Vladimir Matyushenko,Yuki Kondo,Light Heavyweight,U-DEC,2001.0,EastRutherford,72.0,205.0,74.0,Orthodox,1971.0,1.9,44.0,1.62,59.0,3.25,46.0,70.0,0.1,71.0,183.0,--,Southpaw,1975.0,1.14,42.0,2.57,51.0,0.76,41.0,37.0,0.5
+
+Ricco Rodriguez,Andrei Arlovski,Heavyweight,KO/TKO,2001.0,EastRutherford,76.0,265.0,--,Orthodox,1977.0,1.85,51.0,1.15,61.0,2.3,39.0,40.0,1.0,75.0,240.0,77.0,Orthodox,1979.0,3.79,45.0,3.2,57.0,0.4,36.0,76.0,0.2
+
+Tony DeSouza,Paul Rodriguez,Welterweight,SUB,2001.0,EastRutherford,72.0,170.0,70.0,Southpaw,1974.0,1.12,52.0,1.57,41.0,2.25,42.0,40.0,1.5,67.0,155.0,--,Orthodox,--,0.84,100.0,1.68,68.0,0.0,0.0,50.0,0.0
+
+Randy Couture,Pedro Rizzo,Heavyweight,U-DEC,2001.0,AtlanticCity,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0
+
+Carlos Newton,Pat Miletich,Welterweight,SUB,2001.0,AtlanticCity,69.0,170.0,--,Orthodox,1976.0,0.65,41.0,1.55,44.0,2.47,70.0,43.0,0.9,70.0,170.0,--,Orthodox,1968.0,1.79,45.0,1.66,63.0,1.96,100.0,54.0,1.0
+
+Chuck Liddell,Kevin Randleman,Light Heavyweight,KO/TKO,2001.0,AtlanticCity,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,70.0,205.0,--,Orthodox,1971.0,1.26,54.0,1.12,57.0,2.0,56.0,30.0,0.8
+
+Shonie Carter,Matt Serra,Welterweight,KO/TKO,2001.0,AtlanticCity,70.0,170.0,--,Southpaw,1972.0,1.62,36.0,2.32,47.0,0.75,66.0,75.0,0.0,66.0,170.0,68.0,Orthodox,1974.0,1.98,39.0,2.64,46.0,2.05,20.0,38.0,0.9
+
+Semmy Schilt,Pete Williams,Heavyweight,KO/TKO,2001.0,AtlanticCity,82.0,265.0,--,Orthodox,1973.0,1.2,50.0,1.31,53.0,0.0,0.0,47.0,1.1,75.0,235.0,--,Orthodox,1975.0,0.61,62.0,2.77,40.0,1.84,40.0,16.0,0.9
+
+Matt Lindland,Ricardo Almeida,Light Heavyweight,DQ,2001.0,AtlanticCity,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,72.0,170.0,74.0,Orthodox,1976.0,2.02,49.0,1.2,61.0,3.74,38.0,31.0,1.2
+
+BJ Penn,Joey Gilbert,Lightweight,KO/TKO,2001.0,AtlanticCity,69.0,155.0,70.0,Orthodox,1978.0,2.76,48.0,3.2,56.0,1.19,55.0,74.0,0.5,71.0,155.0,--,Orthodox,1976.0,0.61,42.0,4.44,31.0,0.0,0.0,0.0,0.0
+
+Tony DeSouza,Steve Berger,Welterweight,U-DEC,2001.0,AtlanticCity,72.0,170.0,70.0,Southpaw,1974.0,1.12,52.0,1.57,41.0,2.25,42.0,40.0,1.5,71.0,170.0,--,Orthodox,1973.0,1.0,27.0,3.26,36.0,0.84,40.0,16.0,1.7
+
+Tito Ortiz,Evan Tanner,Middleweight,KO/TKO,2001.0,AtlanticCity,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3
+
+Jens Pulver,Caol Uno,Lightweight,U-DEC,2001.0,AtlanticCity,67.0,145.0,70.0,Southpaw,1974.0,2.12,37.0,3.13,56.0,0.22,33.0,63.0,0.3,67.0,155.0,70.0,Southpaw,1975.0,1.91,49.0,1.9,50.0,1.95,31.0,37.0,0.5
+
+Fabiano Iha,Phil Johns,Welterweight,SUB,2001.0,AtlanticCity,68.0,155.0,--,Orthodox,1970.0,1.73,47.0,2.49,42.0,2.88,40.0,50.0,2.9,62.0,170.0,--,Southpaw,1968.0,1.2,66.0,1.8,50.0,0.0,0.0,50.0,0.0
+
+Elvis Sinosic,Jeremy Horn,Middleweight,SUB,2001.0,AtlanticCity,75.0,205.0,77.0,Orthodox,1971.0,1.13,37.0,4.6,53.0,0.0,0.0,0.0,1.2,73.0,185.0,74.0,Orthodox,1975.0,1.19,39.0,1.99,55.0,1.83,38.0,29.0,1.1
+
+Pedro Rizzo,Josh Barnett,Heavyweight,KO/TKO,2001.0,AtlanticCity,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0,75.0,250.0,78.0,Orthodox,1977.0,3.2,50.0,2.11,57.0,1.26,55.0,55.0,1.4
+
+Bobby Hoffman,Mark Robinson,Heavyweight,Overturned,2001.0,AtlanticCity,74.0,245.0,--,Orthodox,1968.0,2.02,70.0,1.32,19.0,1.17,50.0,0.0,1.2,72.0,265.0,--,Orthodox,--,0.0,0.0,5.8,13.0,0.0,0.0,0.0,0.0
+
+Phil Baroni,Curtis Stout,Middleweight,U-DEC,2001.0,AtlanticCity,69.0,170.0,72.0,Orthodox,1976.0,2.77,45.0,3.93,40.0,1.46,47.0,60.0,0.5,73.0,185.0,--,Southpaw,1973.0,0.69,67.0,3.2,29.0,0.0,0.0,20.0,0.0
+
+Sean Sherk,Tiki Ghosn,Welterweight,SUB,2001.0,AtlanticCity,66.0,155.0,67.0,Orthodox,1973.0,2.17,35.0,2.71,55.0,4.09,46.0,56.0,0.4,70.0,170.0,--,Orthodox,1977.0,2.78,46.0,2.94,58.0,0.41,50.0,61.0,0.0
+
+Tito Ortiz,Yuki Kondo,Middleweight,SUB,2000.0,Tokyo,75.0,205.0,74.0,Orthodox,1975.0,2.59,46.0,2.88,60.0,2.47,35.0,54.0,0.6,71.0,183.0,--,Southpaw,1975.0,1.14,42.0,2.57,51.0,0.76,41.0,37.0,0.5
+
+Pat Miletich,Kenichi Yamamoto,Welterweight,SUB,2000.0,Tokyo,70.0,170.0,--,Orthodox,1968.0,1.79,45.0,1.66,63.0,1.96,100.0,54.0,1.0,72.0,170.0,--,Orthodox,1976.0,0.3,46.0,1.93,38.0,0.0,0.0,10.0,0.3
+
+Matt Lindland,Yoji Anjo,Middleweight,KO/TKO,2000.0,Tokyo,72.0,185.0,74.0,Southpaw,1970.0,2.62,50.0,1.56,52.0,3.01,48.0,60.0,1.3,71.0,205.0,--,Orthodox,1967.0,0.0,0.0,3.13,25.0,0.0,0.0,0.0,0.0
+
+Fabiano Iha,Daiju Takase,Welterweight,KO/TKO,2000.0,Tokyo,68.0,155.0,--,Orthodox,1970.0,1.73,47.0,2.49,42.0,2.88,40.0,50.0,2.9,72.0,170.0,--,Southpaw,1978.0,0.49,30.0,1.64,47.0,0.84,17.0,21.0,1.2
+
+Evan Tanner,Lance Gibson,Middleweight,KO/TKO,2000.0,Tokyo,72.0,185.0,74.0,Orthodox,1971.0,3.05,59.0,2.64,56.0,2.55,43.0,25.0,1.3,69.0,185.0,--,Orthodox,1970.0,1.21,75.0,6.44,20.0,0.0,0.0,0.0,0.0
+
+Dennis Hallman,Matt Hughes,Welterweight,SUB,2000.0,Tokyo,69.0,155.0,72.0,Orthodox,1975.0,1.12,44.0,1.96,43.0,1.79,30.0,25.0,2.1,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2
+
+Chuck Liddell,Jeff Monson,Middleweight,U-DEC,2000.0,Tokyo,74.0,205.0,76.0,Orthodox,1969.0,2.97,35.0,2.71,56.0,0.44,75.0,81.0,0.0,69.0,247.0,74.0,Orthodox,1971.0,0.97,30.0,2.87,59.0,1.06,12.0,66.0,0.7
+
+Randy Couture,Kevin Randleman,Heavyweight,KO/TKO,2000.0,AtlanticCity,73.0,205.0,75.0,Orthodox,1963.0,2.85,57.0,1.53,59.0,2.78,46.0,58.0,0.5,70.0,205.0,--,Orthodox,1971.0,1.26,54.0,1.12,57.0,2.0,56.0,30.0,0.8
+
+Renato Sobral,Maurice Smith,Heavyweight,M-DEC,2000.0,AtlanticCity,73.0,205.0,75.0,Orthodox,1975.0,2.23,45.0,1.53,57.0,2.48,42.0,65.0,2.6,74.0,221.0,--,Orthodox,1961.0,0.41,46.0,0.47,60.0,0.89,50.0,20.0,0.9
+
+Josh Barnett,Gan McGee,Super Heavyweight,KO/TKO,2000.0,AtlanticCity,75.0,250.0,78.0,Orthodox,1977.0,3.2,50.0,2.11,57.0,1.26,55.0,55.0,1.4,82.0,265.0,--,Orthodox,1976.0,2.2,29.0,2.31,59.0,0.65,25.0,83.0,0.0
+
+Andrei Arlovski,Aaron Brink,Heavyweight,SUB,2000.0,AtlanticCity,75.0,240.0,77.0,Orthodox,1979.0,3.79,45.0,3.2,57.0,0.4,36.0,76.0,0.2,75.0,205.0,--,Orthodox,1974.0,3.49,42.0,5.71,57.0,0.0,0.0,0.0,0.0
+
+Jens Pulver,John Lewis,Lightweight,KO/TKO,2000.0,AtlanticCity,67.0,145.0,70.0,Southpaw,1974.0,2.12,37.0,3.13,56.0,0.22,33.0,63.0,0.3,72.0,155.0,--,Southpaw,--,0.0,0.0,4.0,66.0,0.0,0.0,0.0,0.0
+
+Mark Hughes,Alex Stiebling,Middleweight,U-DEC,2000.0,AtlanticCity,69.0,205.0,--,Southpaw,1973.0,0.9,47.0,0.4,42.0,3.0,50.0,0.0,4.5,74.0,205.0,--,Southpaw,--,1.77,42.0,1.45,52.0,0.35,66.0,66.0,0.7
+
+Ben Earwood,Chris Lytle,Welterweight,U-DEC,2000.0,AtlanticCity,68.0,170.0,--,Orthodox,--,0.5,55.0,0.2,33.0,3.0,100.0,0.0,0.0,71.0,170.0,68.0,Orthodox,1974.0,3.76,45.0,3.03,58.0,0.7,55.0,55.0,2.4
+
+Pedro Rizzo,Dan Severn,Heavyweight,KO/TKO,2000.0,NewOrleans,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0,74.0,250.0,--,Southpaw,1958.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Maurice Smith,Bobby Hoffman,Heavyweight,S-DEC,2000.0,NewOrleans,74.0,221.0,--,Orthodox,1961.0,0.41,46.0,0.47,60.0,0.89,50.0,20.0,0.9,74.0,245.0,--,Orthodox,1968.0,2.02,70.0,1.32,19.0,1.17,50.0,0.0,1.2
+
+Jeremy Horn,Eugene Jackson,Middleweight,SUB,2000.0,NewOrleans,73.0,185.0,74.0,Orthodox,1975.0,1.19,39.0,1.99,55.0,1.83,38.0,29.0,1.1,68.0,185.0,--,Orthodox,1966.0,2.19,33.0,3.44,32.0,1.91,71.0,16.0,2.3
+
+Fabiano Iha,Laverne Clark,Welterweight,SUB,2000.0,NewOrleans,68.0,155.0,--,Orthodox,1970.0,1.73,47.0,2.49,42.0,2.88,40.0,50.0,2.9,71.0,170.0,--,Orthodox,1973.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Yuki Kondo,Alexandre Dantas,Middleweight,KO/TKO,2000.0,NewOrleans,71.0,183.0,--,Southpaw,1975.0,1.14,42.0,2.57,51.0,0.76,41.0,37.0,0.5,74.0,238.0,--,Orthodox,1979.0,0.21,25.0,1.87,60.0,0.0,0.0,0.0,3.1
+
+Ian Freeman,Tedd Williams,Heavyweight,U-DEC,2000.0,NewOrleans,71.0,225.0,--,Orthodox,1966.0,2.54,48.0,3.11,44.0,1.44,40.0,80.0,0.7,73.0,275.0,--,Orthodox,1969.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Jeff Monson,Tim Lajcik,Heavyweight,U-DEC,2000.0,NewOrleans,69.0,247.0,74.0,Orthodox,1971.0,0.97,30.0,2.87,59.0,1.06,12.0,66.0,0.7,73.0,225.0,--,Orthodox,1965.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Brad Gumm,CJ Fernandes,Welterweight,U-DEC,2000.0,NewOrleans,71.0,170.0,--,Orthodox,--,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,170.0,--,,1977.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Kevin Randleman,Pedro Rizzo,Heavyweight,U-DEC,2000.0,CedarRapids,70.0,205.0,--,Orthodox,1971.0,1.26,54.0,1.12,57.0,2.0,56.0,30.0,0.8,73.0,241.0,--,Orthodox,1974.0,1.93,34.0,3.02,50.0,0.26,28.0,78.0,0.0
+
+Tyrone Roberts,David Dodd,Middleweight,U-DEC,2000.0,CedarRapids,69.0,185.0,--,Orthodox,--,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,200.0,--,Orthodox,1973.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Pat Miletich,John Alessio,Welterweight,SUB,2000.0,CedarRapids,70.0,170.0,--,Orthodox,1968.0,1.79,45.0,1.66,63.0,1.96,100.0,54.0,1.0,70.0,155.0,72.0,Orthodox,1979.0,2.1,39.0,2.91,54.0,1.85,38.0,70.0,1.2
+
+Amaury Bitetti,Alex Andrade,Middleweight,DQ,2000.0,CedarRapids,69.0,185.0,--,Orthodox,--,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0,200.0,--,Orthodox,1974.0,0.2,36.0,2.6,53.0,0.0,0.0,25.0,0.8
+
+Matt Hughes,Marcelo Aguiar,Welterweight,KO/TKO,2000.0,CedarRapids,69.0,170.0,73.0,Switch,1973.0,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,70.0,170.0,--,Orthodox,--,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Jens Pulver,Joao Roque,Lightweight,U-DEC,2000.0,CedarRapids,67.0,145.0,70.0,Southpaw,1974.0,2.12,37.0,3.13,56.0,0.22,33.0,63.0,0.3,66.0,155.0,--,Orthodox,1971.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Ian Freeman,Nate Schroeder,Heavyweight,KO/TKO,2000.0,CedarRapids,71.0,225.0,--,Orthodox,1966.0,2.54,48.0,3.11,44.0,1.44,40.0,80.0,0.7,73.0,230.0,--,,--,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+Shonie Carter,Adrian Serrano,Welterweight,U-DEC,2000.0,CedarRapids,70.0,170.0,--,Southpaw,1972.0,1.62,36.0,2.32,47.0,0.75,66.0,75.0,0.0,68.0,170.0,--,,1963.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
