@@ -3,9 +3,8 @@ import * as tf from '@tensorflow/tfjs';
 
 async function runModel(){
 
-  modelUrl = "https://raw.githubusercontent.com/ginrone/UFC-predictor/master/ufcpredictor/ufcpredictor_machinelearning/models/model.json";
-  const model = await tf.loadGraphModel(modelUrl);
-  console.log("model is loaded")
+  const model = await tf.loadLayersModel("https://raw.githubusercontent.com/ginrone/UFC-predictor/master/ufcpredictor/ufcpredictor_machinelearning/models/model.json");
+  console.log("model loaded")
 }
 
 function App() {
