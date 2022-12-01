@@ -2,17 +2,6 @@ import './App.css';
 import * as tf from '@tensorflow/tfjs';
 import * as dfd from "danfojs"
 
-async function runModel(){
-
-  const data = convertData();
-
-  const model = await tf.loadLayersModel("https://raw.githubusercontent.com/ginrone/UFC-predictor/master/ufcpredictor/ufcpredictor_machinelearning/models/model.json");
-  console.log("model loaded")
-
-  const pred = model.fit(data)
-  console.log(pred)
-}
-
 function convertData() {
   const dfd = require("danfojs")
 
@@ -28,7 +17,20 @@ function convertData() {
 
   const data = [-1.0409851520570448,-0.0693172795261538,0.10019976804225063,0.21486906371355471,-0.7964903763707751,-1.7882309887004593,-1.4013980149740122,-1.2824899013608078,-0.01645641942623375,-1.2566601585957957,-2.0832784400384283,-0.46906757159061796,1.1409914129757168,-0.35406298823176274,0.10019976804225063,-0.2592097073045762,-0.07575904270937413,-0.8026125753543639,-0.731591491309691,-0.46069025189837903,0.6759013856038146,0.3594987953749928,0.45532769838306375,1.2749313990281204,-0.33070970341561956,-0.31664546491805656,-0.09208932109578348,-0.33754429320570767,-0.21480231820593265,-0.2979125181330732,-0.32381167483344026,-0.460367718177654,-0.38904175541074315,2.2023627327090565,-0.1653094717148596,-0.06564189983640827,-0.17544263094290105,-0.2031735350548299,-0.03589945003660451,0.5827008064908247,-0.5076577414691509,-0.2193532259967786,-0.03589945003660451,0.5827008064908247,-0.5076577414691509,-0.2193532259967786]
 
+  console.log(data)
+
   return data;
+}
+
+async function runModel(){
+
+  const data = convertData();
+
+  const model = await tf.loadLayersModel("https://raw.githubusercontent.com/ginrone/UFC-predictor/master/ufcpredictor/ufcpredictor_machinelearning/models/model.json");
+  console.log("model loaded")
+
+  const pred = model.fit(data)
+  console.log(pred)
 }
 
 function App() {
