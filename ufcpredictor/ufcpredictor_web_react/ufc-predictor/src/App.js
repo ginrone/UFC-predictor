@@ -29,7 +29,7 @@ async function runModel(){
   const model = await tf.loadLayersModel("https://raw.githubusercontent.com/ginrone/UFC-predictor/master/ufcpredictor/ufcpredictor_machinelearning/models/model.json");
   console.log("model loaded")
 
-  const pred = model.fit(data)
+  const pred = model.predict(data)
   console.log(pred)
 }
 
