@@ -37,7 +37,7 @@ function App() {
   runModel();
 
   return (
-    <div className="App">
+    <div className="App text-6xl font-bold underline">
       <h1> This is just testing </h1>
     </div>
   );
