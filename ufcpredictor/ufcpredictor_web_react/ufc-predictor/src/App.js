@@ -1,6 +1,7 @@
 import './App.css';
 import * as tf from '@tensorflow/tfjs';
 import * as dfd from "danfojs"
+import FetchData from './FetchData';
 
 function convertData() {
   // const dfd = require("danfojs")
@@ -39,6 +40,7 @@ function App() {
   return (
     <div className="App">
       <h1> This is just testing </h1>
+      <FetchData/>
     </div>
   );
 }
