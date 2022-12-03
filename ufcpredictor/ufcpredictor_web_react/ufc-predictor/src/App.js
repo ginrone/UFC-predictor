@@ -1,6 +1,8 @@
 import './App.css';
 import * as tf from '@tensorflow/tfjs';
-import * as dfd from "danfojs"
+import * as dfd from "danfojs";
+import Button from "./components/buttons/button";
+import Input from "./components/inputs/input";
 
 function convertData() {
   // const dfd = require("danfojs")
@@ -37,8 +39,9 @@ function App() {
   runModel();
 
   return (
-    <div className="App text-6xl font-bold underline">
+    <div className="App">
       <h1> This is just testing </h1>
+      <Button />
     </div>
   );
 }
