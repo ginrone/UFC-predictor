@@ -1,6 +1,17 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-}
+// const nextConfig = {
+//   reactStrictMode: true,
+// }
 
-module.exports = nextConfig
+customConfig = {
+  async rewrites() {
+      return [
+        {
+          source: '/api/:path*',
+          destination: 'https://www.ufc.com//:path*',
+        },
+      ]
+    },
+};
+
+module.exports = customConfig
