@@ -12,6 +12,7 @@
     "@chakra-ui/react": "^2.4.3",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@tensorflow/tfjs": "^4.2.0",
     "axios": "^1.2.1",
     "cheerio": "^1.0.0-rc.12",
     "framer-motion": "^6.5.1",
