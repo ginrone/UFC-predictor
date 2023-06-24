@@ -46,6 +46,8 @@ export default function Home() {
         }
         else{
           document.getElementById("errorFalse").hidden = true
+
+          console.log(returnVal.toBack)
   
           // loadModel(dataInput);
         }
