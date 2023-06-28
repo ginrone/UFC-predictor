@@ -178,16 +178,7 @@ const getData = async (req, res) => {
     const upperData2 = extractData(scrapData(text2,'.c-stat-compare__number','.c-stat-compare__label'),2)
     const graphData2 = extractData(scrapDataCircle(text2,'.e-chart-circle__percent'),3)
 
-    console.log(lowerData1)
-    console.log(lowerData2)
-
-    console.log(upperData1)
-    console.log(upperData2)
-
-    console.log(graphData1)
-    console.log(graphData2)
-
-    toBack = "right"
+    toBack = lowerData1.concat(lowerData2, upperData1, upperData2, graphData1, graphData2)
     
     return res.status(200).json({ toBack })
 
