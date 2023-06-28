@@ -189,7 +189,7 @@ const getData = async (req, res) => {
 
     toBack = "right"
     
-    return res.status(200).json({ toBack, toTest })
+    return res.status(200).json({ toBack })
 
 
 }
