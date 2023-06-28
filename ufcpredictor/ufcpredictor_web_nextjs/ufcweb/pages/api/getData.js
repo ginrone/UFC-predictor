@@ -3,22 +3,22 @@ import * as cheerio from 'cheerio'
 /*
 Data that is needed for ML
 
-'EventYear', 
+'EventYear', a
 'A_height', a
 'A_weight', a
 'A_range', a
 'A_YearBirth', a
        
-'A_SigStrikeLanded', 
-'A_SigStrikeAcc', 
-'A_SigStrikeAbsorb',
+'A_SigStrikeLanded', a
+'A_SigStrikeAcc', a
+'A_SigStrikeAbsorb', a
        
-'A_SigStrikeDef', 
-'A_TakedownAvg', 
-'A_TakedownAcc', 
-'A_TakedownDef',
+'A_SigStrikeDef', a
+'A_TakedownAvg', a
+'A_TakedownAcc', a
+'A_TakedownDef', a
        
-'A_SubAvg', 
+'A_SubAvg', a
 
 'B_height', 
 'B_weight', 
@@ -68,18 +68,80 @@ Data that is needed for ML
 'B__Switch'
 */
 
-function scrapData(data){
+// function scrapData(data,arg){
+
+//     const fighterData = cheerio.load(data)
+//     const lowerData = fighterData(arg)
+//     const lowerDataArray = []
+
+//     for(let i=0;i<lowerData.length;i++){
+//         lowerDataArray.push(lowerData.eq(i).text())
+//     }
+
+//     return lowerDataArray
+
+// }
+
+function scrapData(data,arg,label){
 
     const fighterData = cheerio.load(data)
-    const lowerData = fighterData('.c-bio__text')
-    const lowerDataArray = []
+    const returnData = []
+    
+    const statsData = fighterData(arg)
+    const statsLabel = fighterData(label)
 
-    for(let i=0;i<lowerData.length;i++){
-        lowerDataArray.push(lowerData.eq(i).text())
+    for(let i=0;i<statsData.length;i++){
+        returnData.push([statsLabel.eq(i).text(),statsData.eq(i).text()])
     }
 
-    return lowerDataArray
+    return returnData
 
+}
+
+function scrapDataCircle(data,arg){
+
+    const fighterData = cheerio.load(data)
+    const returnData = []
+    
+    const statsData = fighterData(arg)
+
+    for(let i=0;i<statsData.length;i++){
+        returnData.push(statsData.eq(i).text())
+    }
+
+    return returnData
+}
+
+function extractData(data,arg){
+
+    const selectedData = []
+
+    if(arg == 1){
+
+        for (let i = 0; i < data.length; i++) {
+
+            if(data[i][0] == 'Age' || data[i][0] == 'Height' || data[i][0] == 'Weight' || data[i][0] == 'Reach'  ){
+                selectedData.push(data[i][1].replaceAll(' ',"").replaceAll('\n',"").replaceAll('%',""))
+            }
+        }
+
+    }
+    else if(arg == 2){
+
+        for (let i = 0; i < data.length; i++) {
+
+            if(data[i][0] == 'Sig. Str. Landed' || data[i][0] == 'Sig. Str. Absorbed' || data[i][0] == 'Takedown avg' || data[i][0] == 'Submission avg' || data[i][0] == 'Sig. Str. Defense' || data[i][0] == 'Takedown Defense' ){
+                selectedData.push(data[i][1].replaceAll(' ',"").replaceAll('\n',"").replaceAll('%',""))
+            }
+        }
+
+    }
+    else if(arg == 3){
+        selectedData.push(data[0].replaceAll(' ',"").replaceAll('\n',"").replaceAll('%',""))
+        selectedData.push(data[1].replaceAll(' ',"").replaceAll('\n',"").replaceAll('%',""))
+    }
+
+    return selectedData
 }
 
 const getData = async (req, res) => {
@@ -108,15 +170,26 @@ const getData = async (req, res) => {
 
     const text2 = await resp2.text()
 
-    const data1 = scrapData(text1)
-    const data2 = scrapData(text2)
+    const lowerData1 = extractData(scrapData(text1,'.c-bio__text','.c-bio__label'),1)
+    const upperData1 = extractData(scrapData(text1,'.c-stat-compare__number','.c-stat-compare__label'),2)
+    const graphData1 = extractData(scrapDataCircle(text1,'.e-chart-circle__percent'),3)
 
-    console.log(data1)
-    console.log(data2)
+    const lowerData2 = extractData(scrapData(text2,'.c-bio__text','.c-bio__label'),1)
+    const upperData2 = extractData(scrapData(text2,'.c-stat-compare__number','.c-stat-compare__label'),2)
+    const graphData2 = extractData(scrapDataCircle(text2,'.e-chart-circle__percent'),3)
 
-    toBack = "asdasdsad"
+    console.log(lowerData1)
+    console.log(lowerData2)
+
+    console.log(upperData1)
+    console.log(upperData2)
+
+    console.log(graphData1)
+    console.log(graphData2)
+
+    toBack = "right"
     
-    return res.status(200).json({ toBack })
+    return res.status(200).json({ toBack, toTest })
 
 
 }
